@@ -13,35 +13,55 @@ MODEL = os.getenv("GPT_MODEL", "gpt-4o-mini")  # Vaihda halutessasi
 # ---------- HELPERS ----------
 
 def load_items(path: str = "items.jsonl") -> List[Dict[str, Any]]:
+    """Lataa tehtäväkohteet tiedostosta.
+
+    Tiedosto saa olla joko:
+      * perinteinen JSON-lista
+      * NDJSON / JSON-objektit peräkkäin, myös kauniisti sisennettynä
+
+    Käytämme ``json.JSONDecoder.raw_decode`` -metodia, jotta myös sisennetyt
+    objektit, joita ei ole erotettu pilkuilla, parsitaan turvallisesti. Tämä
+    lähestymistapa kestää myös ylimääräiset rivinvaihdot ja välilyönnit.
+    """
+
     p = Path(path)
     if not p.exists():
         console.print(f"[red]Ei löytynyt tiedostoa: {path}[/red]")
         sys.exit(1)
-    text = p.read_text(encoding="utf-8").strip()
-    if not text:
+
+    text = p.read_text(encoding="utf-8")
+    if not text.strip():
         return []
 
-    # Tue sekä JSON-lista että NDJSON-tyyppinen muoto, jossa objektit voivat olla
-    # useilla riveillä. Jälkimmäisessä kerätään rivejä kunnes muodostuu validi JSON.
-    if text[0] == "[":
+    # Jos data on yksittäinen JSON-lista, palautetaan se sellaisenaan.
+    first = next((ch for ch in text if not ch.isspace()), "")
+    if first == "[":
         return json.loads(text)
 
+    decoder = json.JSONDecoder()
     items: List[Dict[str, Any]] = []
-    buffer = ""
-    with p.open("r", encoding="utf-8") as f:
-        for line in f:
-            if not line.strip():
-                continue
-            buffer += line
-            try:
-                items.append(json.loads(buffer))
-            except json.JSONDecodeError:
-                continue
-            else:
-                buffer = ""
+    idx = 0
+    length = len(text)
 
-    if buffer.strip():
-        raise json.JSONDecodeError("Incomplete JSON object", buffer, len(buffer))
+    while idx < length:
+        # ohita välilyönnit, rivinvaihdot ja muut tyhjämerkit
+        while idx < length and text[idx].isspace():
+            idx += 1
+        if idx >= length:
+            break
+
+        try:
+            item, offset = decoder.raw_decode(text, idx)
+        except json.JSONDecodeError as exc:
+            # helpommin tulkittava virheilmoitus tiedoston kontekstilla
+            raise json.JSONDecodeError(
+                f"Virhe jäsentäessä kohtaa alkaen merkistä {idx}",
+                text,
+                exc.pos,
+            ) from exc
+
+        items.append(item)
+        idx = offset
 
     return items
 
@@ -153,3 +173,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
