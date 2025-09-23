@@ -17,11 +17,32 @@ def load_items(path: str = "items.jsonl") -> List[Dict[str, Any]]:
     if not p.exists():
         console.print(f"[red]Ei löytynyt tiedostoa: {path}[/red]")
         sys.exit(1)
-    items = []
+    text = p.read_text(encoding="utf-8").strip()
+    if not text:
+        return []
+
+    # Tue sekä JSON-lista että NDJSON-tyyppinen muoto, jossa objektit voivat olla
+    # useilla riveillä. Jälkimmäisessä kerätään rivejä kunnes muodostuu validi JSON.
+    if text[0] == "[":
+        return json.loads(text)
+
+    items: List[Dict[str, Any]] = []
+    buffer = ""
     with p.open("r", encoding="utf-8") as f:
         for line in f:
-            if line.strip():
-                items.append(json.loads(line))
+            if not line.strip():
+                continue
+            buffer += line
+            try:
+                items.append(json.loads(buffer))
+            except json.JSONDecodeError:
+                continue
+            else:
+                buffer = ""
+
+    if buffer.strip():
+        raise json.JSONDecodeError("Incomplete JSON object", buffer, len(buffer))
+
     return items
 
 def load_prompt_template(path: str = "prompt_template.txt") -> str:
