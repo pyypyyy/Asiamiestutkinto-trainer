@@ -1,0 +1,258 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2020-ethics-a",
+    "year": 2020,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "Ethics A",
+    "title": "Badtaste/Worsttaste – eturistiriita",
+    "question_type": "open_response",
+    "max_points": 6,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 3.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "Kysymys A\n\nToimit asiamiehenä toimistossa Kala IP Badtaste yritykselle, joka valmistaa patentoitua\nmakaronilaatikkoa ja asiamiehenä Worsttaste yritykselle, joka valmistaa patentoitua maksalaatikkoa.\nPatentoitua makaronilaatikkoa valmistetaan eri tavalla kun patentoitua maksalaatikkoa ja patentoitu\nmakaronilaatikko sisältää lisäksi eri ainesosat kun patentoitu maksalaatikko. Eräänä kauniina\nkesäpäivänä Badtaste ilmoittaa sinulle että alkavat myös valmistaa maksalaatikkoa ja että haluavat\nettä edustat heitä myös maksalaatikkoasioissa.\nVoitko edustaa sekä Badtastea että Worsttastea kaikissa immateriaalioikeusasioissa ilmoituksen\njälkeen ja mitä toimenpiteitä sinun pitäisi tehdä?",
+    "official_grading_text": "Vastaus: Pykälässä 5 ESTEELLISYYS\n\n    1. kappale 1 Pykälässä 5 ESTEELLISYYS: eturistiriidan mahdollisuus on ilmeinen\n    2. kappale 4 Pykälässä 5 ESTEELLISYYS: kysymys molemmille – onko OK että edustat molempia\n    3. Jos ei OK, ehdota Badtastelle voisiko joku toinen asiamies jossakin toisessa toimistossa\n        edustaa – kohta 4.4 Pykälässä 4 AUKTORISOITU ASIAMIES JA ASIAKAS velvollisuus luopua\n        tehtävästä.\nPisteytys\n\n   1. perustelut 1 p + oikea vastaus 1 p = 2 p\n   2. perustelut 1 p + oikea vastaus 1 p = 2 p\n   3. perustelut 1 p + oikea vastaus 1 p = 2 p\nYhteensä 6 p (max)",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conflict",
+          "description": "Recognise that the possibility of a conflict of interest is apparent.",
+          "max_points": 2
+        },
+        {
+          "id": "consent",
+          "description": "Ask both clients whether dual representation is acceptable / obtain consent.",
+          "max_points": 2
+        },
+        {
+          "id": "withdraw",
+          "description": "If not acceptable, propose representation elsewhere / recognise duty to withdraw.",
+          "max_points": 2
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2020.pdf",
+      "question_lines": [
+        141,
+        150
+      ],
+      "grading_lines": [
+        152,
+        164
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2020-ethics-b",
+    "year": 2020,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "Ethics B",
+    "title": "Markkinointi ja muiden asiamiesten arvostelu",
+    "question_type": "open_response",
+    "max_points": 4,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 2.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "Kysymys B\nSuoritat onnistuneesti asiamiestutkinnon ja onnistut ensimmäisenä kokelaana saamaan täydet\npisteet joka osiosta ja pääset tavaramerkkiasiamiesrekisteriin. Innostuneena tästä teet\ntyönantajayrityksesi Majava IP kotisivuille blogikirjoituksen tästä suorituksesta ja kirjoitat että olet\nSuomen paras tavaramerkkiasiamies ja Suomessa ei ole tavaramerkkiasiamiestä, joka osaisi\ntavaramerkkiasiat yhtä hyvin kun sinä ja että he tulevat pettymään mikäli käyttävät toista\ntavaramerkkiasiamiestä kun sinua. Blogikirjotuksen julkistamisen jälkeen saat palautetta kollegalta,\njoka ilmoittaa että blogikirjotuksesi rikkoo Hyvää asiamiestapaa koskevia ohjeita. Onko kollega\noikeassa ja jos on, niin miksi. Perustele.",
+    "official_grading_text": "Vastaus:\n\n    1. Pykälässä 9 SUHDE MUIHIN AMMATTIKUNNAN EDUSTAJIIN – ”muhin ammattikunnan\n        edustajiin ei saa kohdistaa epäasiallista arvostelua”\n    2. Kohta 2.2 Kunniallisuus Pykälässä PERUSARVOT –”Auktorisoidun asiamiehen on\n        asiamiestoiminnassaan ja muutenkin vältettävä kaikkea, mikä saattaa alentaa\n        asiamieskunnan arvoa ja vähentää luottamusta asiamieskuntaan”\n    3. Kohta 7. MARKKINOINTI, ensimmäinen kappale: ”Auktorisoidun asiamiehen markkinoinnin\n        on oltava totuudenmukaista, asiallista ja asiamieskunnan arvon mukaista. Markkinointi on\n        toteutettava niin, että se edistää ja ylläpitää yleisön luottamusta teollisoikeudellisten\n        asioiden hoitoon ja asiamieskuntaan”.\nPisteytys\n\n    1. perustelut 1 p + oikea vastaus 1 p = 2 p\n    2. perustelut 0.5 p + oikea vastaus 0.5 p = 1 p\n    3. perustelut 0.5 p + oikea vastaus 0.5 p = 1 p",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "colleagues",
+          "description": "Identify prohibition on improper criticism of other members of the profession.",
+          "max_points": 2
+        },
+        {
+          "id": "honour",
+          "description": "Address honourability / maintaining trust in the profession.",
+          "max_points": 1
+        },
+        {
+          "id": "marketing",
+          "description": "Address truthful, proper and profession-compatible marketing.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2020.pdf",
+      "question_lines": [
+        166,
+        174
+      ],
+      "grading_lines": [
+        176,
+        191
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2020-general-essay-co2cutter",
+    "year": 2020,
+    "exam_part": "common",
+    "category": "ip_business",
+    "question_number": "General essay B",
+    "title": "CO2Cutter Oy – keksintö, suojaus ja liiketoiminta",
+    "question_type": "open_response",
+    "max_points": 10,
+    "max_points_basis": "inferred_from_exam_structure",
+    "practice_pass_points": 5.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "Kysymys B - Yleinen esseekysymys\n\nCO2Cutter Oy on moottoreiden haitallisten emissioiden vähentämistä kehittävä pieni\nasiantuntijayritys, jonka liikevaihto on noin 2MEUR. Lähes koko liikevaihto syntyy konsultoinnista\nalan suurille yrityksille, jotka toimivat mm. laivojen propulsion, autoteollisuuden ja\nvaravoimalajärjestelmien markkinoilla. Kyseisten yritysten liikevaihto on miljardiluokkaa ja niitä on\nmaailmassa joitakin kymmeniä.\n\nCO2Cutterin työntekijä, matemaatikko Mauno Mutikainen, on tehnyt hyvin kiintoisalta vaikuttavan\nhavainnon, joka viittaa moottorin päästöjen selvään vähentymiseen. Havainto on tehty laskelmiin\nperustuen. Mutikainen lähettää laskelmansa ja luonnoksen moottorin rakenteesta CO2Cutter Oy:n\ntoimitusjohtajalle I.N. Solvenssille sähköpostitse otsikolla ”Keksintö!”.\n\nSähköpostin ja Mutikaisen laskelmien mukaan idea vähentää polttomoottorin haitallisia päästöjä\njopa 5%. Ideaa ei kuitenkaan ole verifioitu testeissä mitenkään, eikä CO2Cutter Oy:llä ole ainakaan\nnykyisen kassatilanteen valossa varaa tehdä moottorin rakenteesta prototyyppiä, jolla asiaa voisi\ntestata.\n\nTurhautuneesti ähisten toimitusjohtaja Solvenssi soittaa sinulle ja pyytää neuvoja kaikessa asiaan\nliittyvässä kolme viikkoa matemaatikko Mutikaisen sähköpostin vastaanottamisen jälkeen. Miten\nneuvot Solvenssia?\n\nVihje: Tarkastele asiaa useasta eri näkökulmasta, esim.\ni)       patentti- ja työsuhdekeksintölainsäädännön,\nii)      teknologian ja sen edelleenkehittämisen ja\niii)     liiketoiminnan näkökulmasta.",
+    "official_grading_text": "Kysymys 1B\n\nHyvän vastauksen piirteitä ”CO2Cutter-kysymyksessä”\n\nPatenttilakiseikat\n\n    •   Onko keksintö patentoitavissa? Avainsana tässä ”luonnos moottorin rakenteesta”, josta voi\n        päätellä, että parannus on moottorin tekninen piirre. Vaikka ”laskelmaa” ei siis lähtökohtaisesti ole\n        patentoitavissa, Mutikaisen idealla on kuitenkin selvästi tekninen luonne ja se vaikuttaa teknisen\n        ongelman tekniseltä ratkaisulta, eli voidaan olettaa, että kyseessä on patentoitavissa oleva\n        keksintö. Tätä seikkaa oli tarkasteltu monessa vastauksessa. Kukaan ei ollut julistanut keksintöä\n        selvästi sellaiseksi, etteikö sitä voisi patentoida. Hyvä asiamies kuitenkin haastaa sitä, onko\n        simulaation tulos todellisuutta ennustava ja missä tuloksen kelvollisuuden rajat ovat.\n        Ennakkouutuustutkimus oli mainittu muutamassa vastauksessa ja idea on toki hyvä, jos siihen on\n        resursseja.\n    •   Keksinnön tarkkaa toimintaa (”ei testattu”…) voidaan tarkastella sitten, kun oikeudet keksintöön on\n        varattu yritykselle.\n    •   Liikesalaisuutta oli tarkasteltu monissa vastauksissa, liekö perintöä aikaisempien vuosien kokeista.\n        Tässä salassapito on toki tärkeää, mutta moottoria, jossa Mutikaisen keksintö olisi, olisi hyvin\n        vaikeaa pitää tarkasti salassa, koska se olisi asennettu esim. laivan konehuoneeseen, jossa sitä\n        huollettaisiin ja purettaisiin osiin. Asiaa oli tarkasteltu muutamassa vastauksessa.\n\nTyösuhdekeksintöseikat\n\n    •   Edellisestä kohdasta seuraa, että ”työsuhdekeksintölaki” (TSKL) tulee kyseeseen. Sähköpostia\n        Mutikaiselta Solvenssille on syytä pitää keksinnön ilmoittamisena TSKL:n tarkoittamalla tavalla,\n        jolloin tulee tarkastella 4kk ilmoitusaikaa, jota on kulunut kysymyksenasettelussa 3vko, eli aikaa\n        varata keksintöön oikeudet on. Tämä piirre oli jokseenkin kaikissa vastauksissa.\n    •   Keksintöohjesääntö tulee laatia ylipäätään, ja erityisesti, koska keksintö voi olla merkittävä, jolloin\n        on hyvä ymmärtää, miten kohtuullinen korvaus määritellään. Tämä piirre oli esitetty monessa\n        vastauksessa. Käytännössä tämän laskentakaavan laatiminen on vaativa toimi.\n    •   CO2Cutter on pieni firma ja se konsultoi isoja yrityksiä, jolloin yrityksen johdon (Solvenssin) on\n        syytä olla erityisen tarkkana siitä, onko ”Mutikaisen keksintö” todella Mutikaisen, vai onko se\n        kenties päätynyt Mutikaisen tietoon joltain asiakasyritykseltä. Jos olisi, keksinnön patentointi\n        CO2Cutterin nimiin voisi johtaa hyvin sekavaan tilanteeseen. Tätä seikkaa kukaan kokelaista ei\n        tarkastellut, mutta konsulttiyrityksessä asiaan kannattaa kiinnittää erityistä huomiota.\n\nTeknologian kehitys edelleen\n\n    •   Simulointitulos ei välttämättä takaa oikeanlaista kuvausta laitteen toiminnasta. Jos patentointiin\n        lähdetään vain tämän tiedon perusteella, toimitaan suuren epävarmuuden vallitessa. Vastaavasti\n        on mahdollista saavuttaa suojapiiriltään iso patentti koska ollaan mahdollisimman aikaisin\n        liikkeellä. Ja toisaalta on mahdollista, että tekninen toiminta ja näin suojapiiri ymmärretään ja\n        kohdistetaan väärin.\n    •   Kysymyksenasettelun mukaan vaikuttaa siltä, että jatkokehitystä tulee tehdä esim.\n        kollaboraatiosopimuksen tai lisenssisopimuksen varassa. Jatkorahoituslähteitä oli hyvä mainita.\n        Tässä PCT-hakemus ja edelleen kehitys prioriteettivuoden aikana olivat hyviä ideoita. Näitä oli\n        monissa vastauksissa mukana. Jotkut vastaukset sisälsivät mm. tarkastelua lisäkeksintöjen\n        suojaamiseen. Sitä, miten toimia usean yhteistyökumppanin kanssa (esim. field of use), ei\n        tarkasteltu kokelaiden vastauksissa.\n\nLiiketoiminta\n     • Tässäkin lisensoinnin tarkastelu oli avainasemassa, jolloin patenttihakemuksen tai patentin rooli\n        korostuu (vrt. knowhow-lisensointi). Asiaa oli tarkasteltu monessa vastauksessa hyvin.\n        Rahoituskysymykset, asiakaskunnan tarkastelu ja kollaboraatio/”joint development” nousevat\n        myös tässä kohdin esille.",
+    "grading": {
+      "mode": "official_text_holistic",
+      "criteria": [],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2020.pdf",
+      "question_lines": [
+        54,
+        79
+      ],
+      "grading_lines": [
+        280,
+        338
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": [
+      "The source excerpt does not print a max score beside this essay; 10 points is inferred from the exam structure."
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2020-ip-system-a",
+    "year": 2020,
+    "exam_part": "common",
+    "category": "ip_system",
+    "question_number": "IP system A",
+    "title": "Patenttioikeuden sammuminen EU/ETA-alueella",
+    "question_type": "open_response",
+    "max_points": 6,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 3.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "TEHTÄVÄ A\n\nYritys X:lle on myönnetty eurooppapatentti, joka on saatettu kansallisesti voimaan kaikissa Euroopan\nunionin jäsenvaltiossa ja muissa Euroopan patenttisopimukseen kuuluvissa valtioissa.\nYritys X jakelee laitteita Euroopan unionin alueella pääasiassa jakelijayritysten A, B ja C avulla. Yritys\nX valmistaa itse kyseisen tuotepatentin kattamia laitteita Saksassa, josta se myy valmistamansa\ntuotteet jakelija A:lle Italiaan, jakelija B:lle Ranskaan ja jakelija C:lle Suomeen. Jakelijoiden myyntiä\nmuille alueille ei ole jakelusopimuksissa rajoitettu. EU:n ulkopuolella yritys X myy tuotteita itse\nloppuasiakkaille ja tuotteiden jakelusta huolehtiville tukkuliikkeille.\n\nAlueiden hintatasoissa vallitsevien erojen vuoksi eräät toimijat ovat ryhtyneet myymään\nhankkimiaan laitteita edelleen toisille alueille. Erityisesti ärtymystä on herättänyt yritys Z:n\ntoiminnan seuraavat piirteet:\ni.       Yritys Z hankkii yritys X:n laitteita jakelija A:lta ja myy niitä eräisiin Keski- ja Pohjois-\nEuroopassa sijaitseviin EU:n jäsenvaltioihin.\nii.      Yritys Z tuo Kreikkaan ja sieltä edelleen muihin EU:n jäsenvaltioihin myytäväksi laitteita,\njotka yritys X on laskenut liikkeelle tukkuliikkeen välityksellä Turkissa.\n\nYritys X pohtii patentin loukkauskanteiden nostamista yritys Z:aa vastaan eräissä EU:n\njäsenvaltioissa, joihin yritys Z tuo ja myy laitteita (mm. Suomi). Sinulle on annettu tehtäväksi\narvioida, onko yritys X:llä mahdollisuuksia sen tuotepatenttiin vetoamalla puuttua Z:n toimintaan\nSuomessa ja yleisemmin muissa EU:n jäsenvaltioissa.\n\nSelitä vastauksessasi a) oikeussäännöt, jotka vaikuttavat patenttioikeudellisiin\npuuttumismahdollisuuksiin Suomessa ja yleisesti EU:ssa ja b) arvioi sääntöjen perusteella yritys Z:n\nyllä 1i- ja 2ii-kohdassa kuvattua toimintaa kiinnittäen huomiota tilanteen kannalta merkityksellisiin\nfaktoihin. Tilanteessa on kiistatonta, että Z:n myymä laite kuuluu X:n tuotepatentin suoja-alaan ja\nettä patentti on pätevä.",
+    "official_grading_text": "Arviointiperusteet [6 pistettä]:\n\nSäännöt\n-        Patentinhaltijan yksinoikeuksiin kuuluvat muun muassa patentoitujen tuotteiden myynti ja\ntuonti (esim. Patenttilain 3 §, mm. TRIPS-sopimuksen mukaan yleisestikin eri valtioissa). [1,5 pistettä]\n-        EU:n tavaroiden vapaata liikkuvuutta koskevat säännöt eivät lähtökohtaisesta salli\nmahdollisuutta puuttua tuontiin ja vientiin, jos tuotteet on laskettu liikkeelle oikeudenhaltijoiden\ntoimesta tai suostumuksella EU/ETA-alueella. Suomessa oikeuksien sammumisesta säädetään\nPatenttilain 3 §:ssä. [1,5 pistettä]\n-        Kohdassa 1 käsiteltyyn toimintaan ei ole mahdollista puuttua, koska laitteet on laskettu\nliikkeelle oikeudenhaltijan suostumuksella/toimesta EU:n alueella. [1,5 pistettä]\n-        Kohdassa 2 tuotteet on laskettu liikkeelle EU/ETA-alueen ulkopuolella, joten sammumista ei\ntapahdu Suomen tai EU:n oikeuden näkökulmasta. Toimintaan on siten mahdollista puuttua\npatenttiin vetoamalla. [1,5 pistettä]",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "exclusive-rights",
+          "description": "Patent holder exclusive rights include sale and import.",
+          "max_points": 1.5
+        },
+        {
+          "id": "exhaustion-rule",
+          "description": "Explain EU/EEA exhaustion / free movement rule.",
+          "max_points": 1.5
+        },
+        {
+          "id": "eu-products",
+          "description": "Products first put on market in EU/EEA with consent: rights exhausted, no patent intervention.",
+          "max_points": 1.5
+        },
+        {
+          "id": "turkey-products",
+          "description": "Products first put on market outside EU/EEA (Turkey): no EEA exhaustion; patent intervention available.",
+          "max_points": 1.5
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2020.pdf",
+      "question_lines": [
+        196,
+        223
+      ],
+      "grading_lines": [
+        226,
+        239
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2020-ip-system-b",
+    "year": 2020,
+    "exam_part": "common",
+    "category": "ip_enforcement",
+    "question_number": "IP system B",
+    "title": "Mallioikeuden valvontakirjeet ja sopimaton menettely",
+    "question_type": "open_response",
+    "max_points": 4,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 2.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "TEHTÄVÄ B\n\nYritys T on rekisteröinyt Suomessa kännykkäkoteloita koskevan mallioikeuden. Kyseisessä kotelossa\non kädensija, josta selfieitä (omakuvia) ottaessa puhelimesta käyttäjä saa tukevan otteen. Yritys T\nmyy tällaisia koteloita pääasiassa päivittäistavarakauppojen kautta.\nToinen yritys L toi äskettäin Suomen markkinoille kilpailevan kännykkäkotelon, jonka monet\npäivittäistavarakaupat ovat ottaneet valikoimiinsa. Kotelon idea on sama eli sen avulla puhelimesta\nsaa hyvän otteen puhelimesta selfieitä otettaessa. Yritys L:n kotelo kuitenkin eroaa joiltakin\nyksityiskohdiltaan yritys T:n rekisteröimästä mallista. On siten epäselvää, kuuluuko kotelo yritys T:n\nrekisteröimän mallin suojan piiriin.\n\nYritys T ei ole hankkinut arviota mahdollisesta mallioikeuden loukkauksesta miltään alan\nasiantuntijalta. Yrittys T:n käsityksen mukaan sillä on Suomessa yksinoikeus kaikenlaisiin selfie-\nkoteloihin, koska se ensimmäisenä ryhtyi niitä myymään Suomessa ja sille on myönnetty edellä\nmainittu mallioikeus. Puolustaakseen oikeuksiaan yritys T lähetti tiukkasanaiset kirjeet kaikille\nsellaisille päivittäistavarakaupoille, joiden valikoimassa yritys L:n koteloita on ollut. Kirjeissä\ntodettiin, että yritys T:llä on Suomessa selfie-koteloita koskeva mallioikeus ja uhattiin kauppoja\n”huomattavalla vahingonkorvausvastuulla ja pitkillä vankeustuomioilla”, jos yritys L:n ”kiistattomasti\nyritys T:n yksinoikeutta loukkaavia koteloita ei välittömästi poisteta myynnistä”. Lähes kaikki kaupat\npoistivatkin yritys L:n kotelot myynnistä. Yritys T ei ole ollut asiassa yhteydessä yritys L:ään.\n\nMinkälaisia oikeudellisia riskejä yritys T:n toimintaan tapauksessa liittyy? Mitä lainsäädäntöä\nmenettely Suomessa voisi rikkoa ja mistä syistä? Millä tavoin toisin toimimalla yritys T olisi voinut\nvähentää kyseisiä riskejä?",
+    "official_grading_text": "Arviointiperusteet (4 pistettä):\n- Kyseessä voi olla erityisesti SopMenL:n 1 §:b yleislausekkeen vastainen menettely [1 piste].\n- Piirteitä joiden perusteella kyse saattaa olla sopimattomasta menettelystä ovat mm. 1) kirjeiden\nsisältämät mahdollisesti harhaanjohtavat tai totuudenvastaiset väitteet ”kiistattomasta”\nloukkauksesta ja sen seurauksista sekä 2) kirjeiden lähettäminen vain jälleenmyyjille. Vrt. esim.\nKKO:2005:105. [2 pistettä]\n- Oikeuksien puolustamisen riskejä olisi vähentänyt, jos yllä mainittuja piirteitä olisi vältetty eli\nkirjeissä esitetyt väitteet loukkauksesta ja sen seuraamuksista eivät olisi olleet yhtä kärjistettyjä ja\njos yritys olisi ensin ollut yhteydessä väitettyyn loukkaajaan. Yritys T olisi myös voinut arvioida\nloukkauksen todennäköisyyttä luotettavammin ennen kirjeiden lähettämistä [1 pistettä].",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "sopmen",
+          "description": "Identify possible violation of SopMenL 1 § general clause.",
+          "max_points": 1
+        },
+        {
+          "id": "risk-features",
+          "description": "Analyse misleading/categorical infringement claims and targeting only retailers (cf. KKO 2005:105).",
+          "max_points": 2
+        },
+        {
+          "id": "risk-reduction",
+          "description": "Explain ways to reduce risk: more measured claims, contact alleged infringer first, assess infringement reliably.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2020.pdf",
+      "question_lines": [
+        243,
+        266
+      ],
+      "grading_lines": [
+        268,
+        277
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  }
+]

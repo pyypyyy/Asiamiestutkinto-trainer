@@ -1,0 +1,193 @@
+[
+  {
+    "id": "common-2023-q32",
+    "year": 2023,
+    "exam_part": "common",
+    "question_number": "32",
+    "title": "UPC:ssa esitetty epäasiallinen arvostelu",
+    "question_text": "Q32\n\nToimit UPCssa patentinhaltijan avustajana (Article 48(2)) patentin loukkaus- ja mitätöintiriidassa.\nPääkäsittelyssä väitetyn loukkaajan ja patentin mitätöintiä vaativan juristin patenttiasiamies Hans\nGruber, joka on auktorisoitu patenttiasiamies Suomessa, esittää että patenttiin johtanut\npatenttihakemus on osaamattoman patenttiasiamiehen ammattitaidottomasti laatima tekele, jonka\nperusteella ei olisi ikinä pitänyt myöntää patenttia, koska se on niin epäammattimaisesti laadittu.\nVoitko tehdä tästä valituksen Teollisoikeusasiamieslautakunnalle? Perustele miksi voit / miksi et voi.",
+    "official_grading_text": "Vastaus:\n\nVoit, koska hyvää asiamiestapaa koskevat (ee�set) ohjeet katavat myös toiminnan UPCn edessä, mikäli\nasiamies on auktorisoitu asiamies Suomessa.\n\nTeollisoikeuslautakunnan ee�siä ohjeita noudataen asia tulisi ensisijaises� pyrkiä ratkaisemaan Hans\nGruberin kanssa sovinnollises� (ohjeet kohta 9). Tapauksessa on kuitenkin mahdollista tehdä valitus\nTeollisoikeusasiamieslautakuntaan.\n\nHans Gruber on menetellyt auktorisoituja asiamiehiä koskevien tapaohjeiden vastaises� ja todennäköises�\nhyvän asiamiestavan vastaises� (ee�set ohjeet 9 kohta).\n\nTeollisoikeusasiamieslautakunta valvoo, etä auktorisoidut teollisoikeusasiamiehet noudatavat laissa\nsäädetyjä velvollisuuksia, erityises� hyvää asiamiestapaa (8 §, 13 §). Gruberin toiminnasta voi valitaa\nlautakunnalle, koska hän on Suomessa auktorisoitu paten�asiamies.",
+    "grading_enabled": false,
+    "reason": "Maximum points are not explicitly visible in the supplied source extract; do not invent a score ceiling.",
+    "source": {
+      "file": "Yht2023_mallivastaukset.pdf",
+      "question_lines": [
+        189,
+        198
+      ],
+      "grading_lines": [
+        199,
+        216
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  },
+  {
+    "id": "common-2023-q33",
+    "year": 2023,
+    "exam_part": "common",
+    "question_number": "33",
+    "title": "Entisen asiakkaan tiedot ja FTO-toimeksianto",
+    "question_text": "Q33\n\nOlet auktorisoitu patenttiasiamies Suomessa patenttiasiamiestoimistossa Uuni Oy. Suurin asiakkaasi\non Nakki Oy, joka kehittää ja valmistaa kasvispohjaisia makkaratuotteita ja laadit useita\nkasvispohjaisiin makkaratuotteisiin liittyviä patenttihakemuksia Nakki Oy:lle ja hoidat lisäksi näiden\npatenttihakemusten viranomaiskäsittelyn Suomessa ja muissa maissa paikallisten asiamiesten\nkautta.\nSaat työtarjouksen, josta et voi kieltäytyä, patenttiasiamiestoimistolta Hella Oy:ltä ja siirryt Hella\nOy:n palvelukseen.\nMakkara Oy, joka on Nakki Oy:n kilpailija ja joka myös kehittää ja valmistaa kasvispohjaisia\nmakkaratuotteita, ottaa yhteyttää ja pyytää että teet toiminnanvapaustutkimuksen, jonka kohteena\non kasvipohjaiset makkaratuotteet. Voitko ottaa toimeksiannon vastaan? Perustele miksi voit /\nmiksi et voi.",
+    "official_grading_text": "Vastaus: Et voi.\n\nAuktorisoidun asiamiehen tulee olla otamata vastaan tehtävää samassa asiassa kahdelta tai useammalta\nasiakkaalta ilman näiden suostumusta, jos asiakkaiden edut tai oikeudet asiassa ovat ris�riitaiset tai\neturis�riidan mahdollisuus on ilmeinen (laki auktorisoiduista teollisoikeusasiamiehistä, 8 §).\n\nAuktorisoitu asiamies tai hänen avustajansa ei saa luvatomas� ilmaista asiakkaansa sellaista yksityisen tai\nperheen salaisuuta taikka liikesalaisuuta, josta hän tehtävässään on saanut �edon. Auktorisoitu asiamies\ntai hänen avustajansa ei saa myöskään luvatomas� ilmaista muita �etoja, joita hän tehtävää hoitaessaan on\nsaanut �etää asiakkaastaan (laki auktorisoiduista teollisoikeusasiamiehistä, 9 §).\n\nAuktorisoidun asiamiehen on luovutava kaikista asiaan liityvistä toimeksiannoista, jos päämiesten edut\njoutuvat ris�riitaan. Toimeksiannosta on luovutava myös, kun asiamies saataisi joutua rikkomaan\nvai�olovelvollisuutensa tai hänen riippumatomuutensa joutuisi vaaraan (Teollisoikeusasiamieslautakunnan\nee�set ohjeet, kohta 5).",
+    "grading_enabled": false,
+    "reason": "Maximum points are not explicitly visible in the supplied source extract; do not invent a score ceiling.",
+    "source": {
+      "file": "Yht2023_mallivastaukset.pdf",
+      "question_lines": [
+        217,
+        231
+      ],
+      "grading_lines": [
+        232,
+        247
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  },
+  {
+    "id": "common-2023-q34",
+    "year": 2023,
+    "exam_part": "common",
+    "question_number": "34",
+    "title": "Valvonta-asia henkilöstä, joka ei ole auktorisoitu asiamies",
+    "question_text": "Q34\n\nEdustat Ruuvi ja Mutteri nimistä yritystä patentin väiteasiassa ja toimit patentinhaltijan\nasiamiehenä. Väitteentekijä on Naula Oy ja Naula Oy:ta edustaa Naula Oy:n toimitusjohtaja Örjan\nÖrn\nHuomaat että toimitusjohtaja Örjan Örn käyttää tekaistuja todisteita. Toimitusjohtaja Örjan Örn on\nmuun muassa muuttanut väitteensä tukena käyttämiensä julkaisujen päivämääriä siten, että uusi\npäivämäärä on ennen patenttihakemuksen tekemispäivää. Asia on selvä suorittamiasi tutkimusten\nkautta.\nTeet asiasta valvonta-asiakirjelmän Teollisoikeusasiamieslautakunnalle. Mihin lopputulokseen\nTeollisoikeusasiamieslautakunnan tulee mielestäsi päätyä asiassa? Pohdi eri vaihtoehtoja ja\nperustele",
+    "official_grading_text": "Vastaus: Teollisoikeusasiamieslautakunnan on jätetävä asia tutkimata. Lautakunta valvoo auktorisoituja\nasiamiehiä, eikä kuvauksen perusteella toimitusjohtaja Örjan Örn ole sellainen (laki auktorisoiduista\nteollisoikeusasiamiehistä 13 §).",
+    "grading_enabled": false,
+    "reason": "Maximum points are not explicitly visible in the supplied source extract; do not invent a score ceiling.",
+    "source": {
+      "file": "Yht2023_mallivastaukset.pdf",
+      "question_lines": [
+        248,
+        261
+      ],
+      "grading_lines": [
+        262,
+        265
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  },
+  {
+    "id": "common-2023-q35",
+    "year": 2023,
+    "exam_part": "common",
+    "question_number": "35",
+    "title": "Asiakkaan tekaistut todisteet",
+    "question_text": "Q35\n\nEdustat Ruuvi ja Mutteri Oy nimistä yritystä patentin väiteasiassa ja toimit väitteentekijän\nasiamiehenä. Patentinhaltija on Naula Oy.\nRuuvi ja Mutteri Oy:n toimitusjohtaja Hans Gruber ei ole löytänyt riittävän hyvää väitemateriaalia\nasiassa ja on tästä syystä vaihtanut julkaisujen päivämääriä siten, että uusi päivämäärä on ennen\nväitteen kohteena olevan patentin patenttihakemuksen tekemispäivää. Asia selviää sinulle väitteen\nvirastokäsittelyn aikana.\nVoitko jatkaa asiassa Ruuvi ja Mutteri Oy:n edustajana asiassa? Perustele miksi voit / miksi et voi.",
+    "official_grading_text": "Vastaus: Et voi. Perustelut esimerkiksi hyvää asiamiestapaa koskevat ohjeet kohta 4.5",
+    "grading_enabled": false,
+    "reason": "Maximum points are not explicitly visible in the supplied source extract; do not invent a score ceiling.",
+    "source": {
+      "file": "Yht2023_mallivastaukset.pdf",
+      "question_lines": [
+        266,
+        274
+      ],
+      "grading_lines": [
+        275,
+        275
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  },
+  {
+    "id": "common-2024-q3a",
+    "year": 2024,
+    "exam_part": "common",
+    "question_number": "Q3A",
+    "title": "Henkilökohtaiset arvot ja jo vastaanotetusta toimeksiannosta luopuminen",
+    "max_points": 4,
+    "practice_pass_points": 2,
+    "exam_pass_group": {
+      "id": "common-2024-q3",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source: each question 1–4 requires at least half the points; no compensation.",
+      "members": [
+        "common-2024-q3a",
+        "common-2024-q3b",
+        "common-2024-q3c"
+      ],
+      "compensation_allowed": false
+    },
+    "question_text": "Kysymys 3\n\nKolme tehtävää, josta kustakin maksimi 4 p\n\n3A\n\n              Olet auktorisoitu patenttiasiamies ja oletetaan lisäksi, että olet vegaani ja suuri eläinten\n              ystävä.\n              Sinulle tarjotaan toimeksianto kirjoittaa patenttihakemus keksinnöstä, joka on hiusten\n              kasvua edistävä aine.\n\n              Otat toimeksiannon vastaan ja laadit patenttihakemusehdotuksen ja lähetät ehdotuksen\n              asiakkaalle kommentoitavaksi.\n\n              Asiakas kommentoi ehdotusta ja haluaa lisäksi, että lisäät hakemukseen uuden aineen\n              käyttökohteen, koska asiakas on huomannut, että aine toimii myös kasvuhormonina siten,\n              että aineen avulla porsas kasvaa täyskasvuiseksi kuukaudessa.",
+    "official_grading_text": "",
+    "grading_enabled": false,
+    "reason": "The supplied 2024 common-part PDF contains the questions but no official grading/model-answer text for these Q3 subparts in the extracted material.",
+    "source": {
+      "file": "Yht2024_mallivastaukset.pdf",
+      "question_lines": [
+        183,
+        200
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  },
+  {
+    "id": "common-2024-q3b",
+    "year": 2024,
+    "exam_part": "common",
+    "question_number": "Q3B",
+    "title": "Henkilökohtaiset arvot ja toimeksiannon vastaanottaminen",
+    "max_points": 4,
+    "practice_pass_points": 2,
+    "exam_pass_group": {
+      "id": "common-2024-q3",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source: each question 1–4 requires at least half the points; no compensation.",
+      "members": [
+        "common-2024-q3a",
+        "common-2024-q3b",
+        "common-2024-q3c"
+      ],
+      "compensation_allowed": false
+    },
+    "question_text": "Voitko luopua toimeksiannosta vetoamalla siihen, että lisättävät asiat ovat sinun\n              henkilökohtaista näkemystäsi vastaisia? Esitä vaihtoehdot, miten voisit edetä asiassa siten\n              että asiakkaan eduista tulevat huomioon otetuiksi.\n\n3B\n\n              Olet auktorisoitu patenttiasiamies ja oletetaan lisäksi, että olet vegaani ja suuri eläinten\n              ystävä.\n\n              Sinulle tarjotaan toimeksianto kirjoittaa patenttihakemus keksinnöstä, joka on\n              kasvuhormoni, jonka avulla porsas kasvaa täyskasvuiseksi kuukaudessa.\n\n              Onko sinun pakko ottaa toimeksianto vastaan? Esitä vaihtoehdot, miten voisit edetä asiassa\n              siten että asiakkaan edut tulevat huomioon otetuiksi.",
+    "official_grading_text": "",
+    "grading_enabled": false,
+    "reason": "The supplied 2024 common-part PDF contains the questions but no official grading/model-answer text for these Q3 subparts in the extracted material.",
+    "source": {
+      "file": "Yht2024_mallivastaukset.pdf",
+      "question_lines": [
+        201,
+        214
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  },
+  {
+    "id": "common-2024-q3c",
+    "year": 2024,
+    "exam_part": "common",
+    "question_number": "Q3C",
+    "title": "Esteellisyys yhteisen tietokannan asiamiestoimistossa",
+    "max_points": 4,
+    "practice_pass_points": 2,
+    "exam_pass_group": {
+      "id": "common-2024-q3",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source: each question 1–4 requires at least half the points; no compensation.",
+      "members": [
+        "common-2024-q3a",
+        "common-2024-q3b",
+        "common-2024-q3c"
+      ],
+      "compensation_allowed": false
+    },
+    "question_text": "3C\n\n              Olet patenttiasiamiestoimiston palveluksessa, jolla on toimipiste Vantaalla, Espoossa, ja\n              Kauniaisissa. Itse olet töissä Vantaan toimipisteellä.\n\n              Kaikilla toimipisteillä on kuitenkin yhteinen tietokanta ja yhteinen\n              toiminnanohjausjärjestelmä eli jokainen asiamiestoimiston työntekijä käyttää\n              patenttiasiamiestoimiston yhteistä tietokantaa ja toiminnanohjausjärjestelmää.\n\n              Vanha asiakkaasi herra Örjan Örn ottaa yhteyttä ja pyytää tekemään väitteen suomalaista\n              patenttia vastaan, jossa asiamies on Espoon toimistolla töissä oleva asiamies. Et ole koskaan\n              kuullutkaan Espoossa hoidossa olevasta asiasta, etkä tunne kyseistä asiamiestäkään.\n              Huomaatkin Espoon kollegan tulleen taloon aivan vastikään toisesta toimistosta ja tämän\n              toimeksiannon siirtyneen hänen mukanaan.\n\n              Voitko ottaa toimeksiannon vastaan? Perustele miksi voit tai miksi et voi.",
+    "official_grading_text": "",
+    "grading_enabled": false,
+    "reason": "The supplied 2024 common-part PDF contains the questions but no official grading/model-answer text for these Q3 subparts in the extracted material.",
+    "source": {
+      "file": "Yht2024_mallivastaukset.pdf",
+      "question_lines": [
+        215,
+        231
+      ]
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen."
+  }
+]

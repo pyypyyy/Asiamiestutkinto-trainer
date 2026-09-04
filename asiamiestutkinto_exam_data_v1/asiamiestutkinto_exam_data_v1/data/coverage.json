@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "total_gradable": 35,
+  "total_ungraded_retained": 7,
+  "by_exam_part": {
+    "common": 23,
+    "patent": 12
+  },
+  "by_year": {
+    "2020": 8,
+    "2021": 10,
+    "2022": 11,
+    "2023": 4,
+    "2024": 2
+  },
+  "by_category": {
+    "ethics": 12,
+    "ip_business": 3,
+    "ip_system": 1,
+    "ip_enforcement": 1,
+    "patent_law": 1,
+    "international_ip": 2,
+    "employee_inventions": 3,
+    "claims_drafting": 4,
+    "inventive_step": 1,
+    "patent_strategy": 4,
+    "office_action": 3
+  },
+  "pending_sources": [
+    {
+      "year": 2024,
+      "exam_part": "patent",
+      "status": "pending_exact_ingestion",
+      "reason": "Official PRH source located, but exact PDF was not supplied as a project file in the current local dataset.",
+      "url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/khddqj9pn/Pat2024_mallivastaukset.pdf"
+    },
+    {
+      "year": 2025,
+      "exam_part": "common",
+      "status": "pending_exact_ingestion",
+      "reason": "Official PRH source located. Add the PDF to the project before copying full question/model-answer text into the repository dataset.",
+      "url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/nsmzv6fuj/Yht2025_mallivastaukset.pdf",
+      "known_structure_note": "The official 2025 common-part material uses section-level half-points pass thresholds with no compensation."
+    },
+    {
+      "year": 2025,
+      "exam_part": "patent",
+      "status": "pending_exact_ingestion",
+      "reason": "Official PRH source located. Add the PDF to the project before copying full question/model-answer text into the repository dataset.",
+      "url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/2n5v1g4lz/Pat2025_mallivastaukset.pdf"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q2",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ip_business",
+    "question_number": "2",
+    "title": "Kuokintakone Oy – patenttisalkun strategia",
+    "question_type": "open_response",
+    "max_points": 10,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 5.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "KYSYMYS 2, 10 p.\n\nKuokintakone Oy (KKOY) on aktiivinen teknologiansa patentoija. Sen tuotteita ovat erilaiset maatalouden\ntraktorivetoiset lisälaitteet. Yhtiön tuotannosta menee liikevaihtopohjaisesti vientiin 80% . Päämarkkina-\nalueita ovat Suomen lisäksi USA (50% viennistä) ja EU-alueella Saksa ja Ranska tasaosuuksin.\n\nYhtiön IPR-salkussa on 40 patenttiperhettä, joista kukin käsittää myönnetyt patentit jokaisella päämarkkina-\nalueella (FI, US, DE, FR). Näiden patenttiperheiden ensihakemus on jätetty yli 10v sitten. Nämä perheet\nkoskevat vanhaa kuokintateknologiaa A, joka on laajalti käytössä yrityksen tuotteissa.\n\nLisäksi yhtiö on saanut uuteen, kaupallisesti ja teknisesti hyvin lupaavaan kuokintateknologiaan B 10 uutta\nkeksintöilmoitusta, joihin yhtiö on ottanut kuukausi sitten oikeudet. B ei mitenkään perustu teknologiaan A.\n\nYhtiön kilpailutilanne on ollut läpi historian hyvin rauhallinen, kilpailijoiden teknologia ei ole tullut kovin\nlähelle eikä väitteitä tai patenttiriitoja ole ollut yhtiön historiassa vielä yhtäkään.\n\nYhtiö on vuodessa käyttänyt yli 10v vanhojen patenttiperheiden ylläpitoon X euroa. Yhtiön toimitusjohtaja\nJussi Suo-Kuokka arvioi, että 10 uuden keksintöilmoituksen patenttihakemukseksi laatiminen ja patentiksi\nsaaminen päämarkkinoilla seuraavan noin viiden vuoden aikana suomalaisen patenttitoimiston kautta\nmaksaa ainakin 5X euroa. Suo-Kuokka arvioi, että yhtiöllä on varaa käyttää tämän noin viiden vuoden\naikana uusien keksintöjen patentointiin maksimissaan 2X euroa, mikäli teknologian A kaikki patentit\npidetään samaan aikaan voimassa.\n\nViikko sitten yhtiön saksalainen samalla alalla toimiva suora kilpailija Y on lähestynyt Suo-Kuokkaa\nsähköpostilla, jossa ilmaisee kaupallisen halukkuutensa hankkia oikeuksia teknologiaan A..\nSuo-Kuokka soittaa sinulle nyt hämmentyneenä ja kuvaa yllä mainitun tilanteen sinulle. Miten\nneuvot toimitusjohtaja Suo-Kuokkaa?\n\nVihje: tarkastele useita erilaisia skenaarioita (vaihtoehtoisia toimintamalleja) annetun tiedon valossa.\nPriorisoi ja perustele eri vaihtoehtoja.",
+    "official_grading_text": "Mallivastaus TEOASM-koe vuosi 2022 – Yleinen osa, kysymys 2 –\n”Kuokintakone Oy”\n\n    Ainakin seuraavat skenaariot voivat tulla kyseeseen:\n\n    -   Skenaario SA1: KKOY myy tai lisensoi teknologia A:han liittyvät patentit kilpailijalle Y ja käyttää\n        sen varat teknologia B:n kehittämiseen (kaupan arvoa ei vielä ole kuvattu kysymyksessä).\n        Lisenssin tyyppi (non-exclu, exclu, sole), takaisinlisensointitarve (poistuuko KKOY teknologiaan A\n        liittyviltä markkinoilta – ei todennäköistä) tulee selvittää (tätä asiaa on hyvä käydä läpi\n        skenaarion A1 sisällä).\n\n    -   Skenaario SA2: KKO myy tai lisensoi osan teknologia A:n patenteista Y:lle. Tämän skenaarion\n        mielekkyys riippuu siitä, millä tavalla Y tuntee tarvetta saada A:n patentteja käyttöönsä. Jos\n        salkussa teknologiaan A liittyen on vain muutama kattava patentti, ja loput patentit A:sta ovat\n        yksityiskohtia, on mahdollista, että vain osa A:sta riittää Y:lle. Tämän seikan selvittäminen vaatii\n        kuitenkin joko Y:n todenmukaista selvitystä asiasta (miltä osin Y mahdollisesti loukkaisi\n        patentteja), ja tällaisen selvityksen saaminen on reaalimaailmassa epätodennäköistä, tai KKOY:n\n        omaa vahvaa näkemystä asiasta.\n\n    -   Skenaario SB1: Kilpailijan Y signaali lisensointihalukkuudesta voi olla merkki teknologian A\n        suuresta arvosta, joten kannattaakin myös tutkia, loukkaako Y tai joku muu taho teknologia A:ta.\n        Tällöin voidaan ehkä odottaa teknologia B:n patentoinnin kanssa, jos siihen ei ole tarpeeksi\n        varoja\n\n    -   Skenaario SB2: Patentoidaan vain osa teknologia B:stä strategisesti parhaassa järjestyksessä.\n\n    -   Skenaario SC: Ei välitetä kilpailijasta Y ja sen signaaleista, karsitaan teknologia A:n\n        patenttisalkkua ja / tai patentoidaan vain osa teknologia B:stä. A:n salkun karsinta voi perustua\n        patenttien relevanssin arviointiin (rauetetaan vähiten relevantit/vähiten kattavat patentit s.e.\n        koko patenttiperhe lakkaa olemasta) tai ns. juustohöylä-periaatteeseen (rauetetaan kustakin\n        patenttiperheestä 1-2 maata; markkina-alueen merkitys liikevaihdosta on kuvattu kysymyksessä\n        ja tätä tietoa voi käyttää eräänä ohjenuorana, mutta ohjenuoria on muitakin).\n\n    -   Skenaario SD: Yhtiö voi aina hakea rahoitusta teknologia A:n ja teknologia B:n täysimääräiseen\n        kehittämiseen (asian mahdollisuus ei käy nyt kysymyksestä ilmi, mutta etenkin Y:n yhteydenotto\n        voi olla merkki siitä, että A:n arvo ja näin koko yrityksen teknologian ja lopulta itse yrityksen arvo\n        on arvioitua selvästi suurempi)\n\nKysymyksen ydin oli testata kokelaan ymmärystä siitä, että patentit ovat dynaamisia liiketoiminnan\ntyökaluja, joiden hallintoon ja päätöksentekoon liittyy useita eri liiketoiminnan osa-alueita (hakemisen ja\nylläpidon kulut, kilpailu patenttien teknologioiden ympärillä, kaupankäyti (lisensointi, myynti) jne).",
+    "grading": {
+      "mode": "official_text_holistic",
+      "criteria": [],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        68,
+        99
+      ],
+      "grading_lines": [
+        185,
+        226
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q3a",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "3a",
+    "title": "Hankala asiakas – toimeksiannosta luopuminen",
+    "question_type": "open_response",
+    "max_points": 5,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 2.5,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "3a) Hankala asiakas (5p.)\n\nHerra Perpetum Mobile on keksinyt ikiliikkujan ja jättänyt siitä itse patenttihakemuksen käyttämättä\nasiamiestä. Saatuaan ensimmäisen teknisen välipäätöksen Patentti- ja rekisterihallitukselta Perpetum\nMobile ottaa sinuun yhteyttä ja pyytää apua patenttihakemuksen virastokäsittelyn kanssa, koska\nensimmäisessä teknisessä välipäätöksessä huomautetaan riittämättömästä selityksestä, uutuudesta ja\nkeksinnöllisyydestä. Selität Perpetum Mobilelle, että välipäätös on hankala ja että asiassa ei välttämättä\npysty vastaamaan välipäätökseen siten, että Patentti- ja rekisterihallitus myöntäisi vastineen jälkeen\npatentin. Otat kuitenkin vastaan toimeksiannon, saat Perpetum Mobilelta valtakirjan ja vastaat parhaan\nkykysi mukaan välipäätöksen. Patentti- ja rekisterihallitus antaa asiassa toisen välipäätöksen, jossa edelleen\nhuomautetaan riittämättömästä selityksestä, uutuudesta ja keksinnöllisyydestä. Raportoit välipäätöksen\nPerpetum Mobilelle, joka raportin saatuaan soittaa sinulle ja kyseenalaistaa ammattitaitosi. Tämän jälkeen\nPatentti- ja rekisterihallituksen tutkija soittaa sinulle ja ilmoittaa että Perpetum Mobile on soittanut\ntukijalle ja huutanut tälle puhelimessa. Voitko luopua tehtävästä ja millä perusteella?",
+    "official_grading_text": "Q32 mallivastaus\nOikea vastaus: Kyllä (2 p)\nPerustelut (3 p): Hyvää asiamiestapaa koskevat ohjeet 4.5 Asiamies voi luopua tehtävästä, jos asiakkaan ja\nasiamiehen välille on syntynyt asiakaan menettelystä johtuva luottamuspula tai muuten on olemassa\nerityinen syy,…1. On auktorisoidun asiamiehen kanssa olennaisesti eri mieltä siitä, millä tavalla tehtävää\npitäisi hoitaa. On myös erityinen syy, koska asiakas ja asiamies ovat eri mieltä, miten asiaa tulisi hoitaa, ja\njo 1. välipäätöksen jälkeen on ilmoitettu että vp on hankala ja asiassa ei välttämättä päästä patentin\nmyöntämiseen, ja asiakas ei kuitenkaan usko tätä.",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conclusion",
+          "description": "Correct conclusion (may withdraw).",
+          "max_points": 2
+        },
+        {
+          "id": "reasons",
+          "description": "Correct reasons under good professional conduct guidance.",
+          "max_points": 3
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        105,
+        118
+      ],
+      "grading_lines": [
+        227,
+        234
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q3b",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "3b",
+    "title": "Jääviys saman toimiston eri toimipisteissä",
+    "question_type": "open_response",
+    "max_points": 5,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 2.5,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "3b) Jääviys (5p.)\n\nOlet patenttiasiamiestoimiston palveluksessa, jolla on toimipiste Hangossa, Nuorgamissa, ja Virolahdella.\nItse olet töissä Nuorgamin toimipisteellä.\n\nKaikilla toimipisteillä on kuitenkin yhteinen tietokanta ja yhteinen toiminnanohjausjärjestelmä eli jokainen\nasiamiestoimiston työntekijä käyttää patenttiasiamiestoimiston yhteistä tietokantaa ja\ntoiminnanohjausjärjestelmää.\n\nHerra Ein Stein ottaa yhteyttä ja pyytää tekemään väitteen suomalaista patenttia vastaan, jossa asiamies on\nVirolahden toimistolla töissä oleva asiamies.\n\nVoitko ottaa toimeksiannon vastaan? Perustele miksi voit tai miksi et voi.",
+    "official_grading_text": "Q33 mallivastaus\nOikea vastaus: En voi ottaa (2 p)\nPerustelut (3p)\nPerustuen lakiin auktorisoiduista teollisoikeusasiamiehistä:\n8 § 1. momentti kohta 3):\nKoska todennäköisesti kyseessä kaksi eri asiakasta (suomalaisen patentin haltija, väitteentekijä), sama\nasiamiestoimisto ei voi ottaa vastaan kahta toimeksiantoa samassa asiassa ilman molempien asiakkaiden\nsuostumusta jos asiakkaiden edut tai oikeudet asiassa ovat ristiriitaiset. Suostumusta tuskin saadaan.\nLisäksi myös 9 § (salassapitovelvollisuus)\nAuktorisoitu asiamies ei saa ilmaista asiakkaansa salaisuutta taikka liike- tai ammattisalaisuutta, josta hän\ntehtävässään on saanut tiedon. Koska asiamiestoimiston tietokanta on yhteinen, tiedon leviämisen vaara\ntoisen toimipisteen asiamiehen tietoisuuteen on ilmeinen.",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conclusion",
+          "description": "Correct conclusion (cannot accept).",
+          "max_points": 2
+        },
+        {
+          "id": "reasons",
+          "description": "Conflict-of-interest and confidentiality reasoning.",
+          "max_points": 3
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        120,
+        132
+      ],
+      "grading_lines": [
+        235,
+        246
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q3c1",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "3c.1",
+    "title": "EUIPO-lista ja tavaramerkkiasiamies-nimike",
+    "question_type": "open_response",
+    "max_points": 2,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "EUIPO – pääset EUIPOn listalle.\n\n    Voitko käyttää ammattinimikettä Tavaramerkkiasiamies? Vastaa + perustele",
+    "official_grading_text": "Q34 mallivastaus\nOikea vastaus: Ei (1 p)\nPerustelut (1 p): Laki auktorisoiduista teollisoikeusasiamiehistä – 7 § Oikeus käyttää ammattinimikettä",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conclusion",
+          "description": "Correct yes/no conclusion.",
+          "max_points": 1
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal/professional-conduct reasoning.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        136,
+        138
+      ],
+      "grading_lines": [
+        247,
+        249
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q3c2",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "3c.2",
+    "title": "EQE ja patenttiasiamies-nimike",
+    "question_type": "open_response",
+    "max_points": 2,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "3c.2 EPO – läpäiset EQEn.\n\n    Voitko käyttää ammattinimikettä Patenttiasiamies? Vastaa + perustele",
+    "official_grading_text": "Q35 mallivastaus\nOikea vastaus: Ei (1 p)\nPerustelut (1 p): Laki auktorisoiduista teollisoikeusasiamiehistä – 7 § Oikeus käyttää ammattinimikettä",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conclusion",
+          "description": "Correct yes/no conclusion.",
+          "max_points": 1
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal/professional-conduct reasoning.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        140,
+        142
+      ],
+      "grading_lines": [
+        250,
+        252
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q3c3",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "3c.3",
+    "title": "Tutkinnon suorittaminen ja tavaramerkkiasiamies-nimike",
+    "question_type": "open_response",
+    "max_points": 2,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "3c.3 Suoritat onnistuneesti asiamiestutkinnon yhteisen osan ja tavaramerkkiosan\n\n    Voitko heti sen jälkeen kun olet saanut tulokset käyttää ammattinimikettä Tavaramerkkiasiamies?\n    Vastaa + perustele",
+    "official_grading_text": "Q36 mallivastaus\nOikea vastaus: Ei (1 p)\nPerustelut (1 p): Laki auktorisoiduista teollisoikeusasiamiehistä § 5; sinun pitää myös täyttää muut em.\npykälässä esitetyt kriteerit,\nja\nLaki auktorisoiduista teollisoikeusasiamiehistä § 6; sinun pitää tehdä auktorisointia koskeva hakemus (2.\nmom.) ja sinulle pitää myöntää auktorisointi (1. mom).",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conclusion",
+          "description": "Correct yes/no conclusion.",
+          "max_points": 1
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal/professional-conduct reasoning.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        144,
+        147
+      ],
+      "grading_lines": [
+        253,
+        259
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q3c4",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "3c.4",
+    "title": "Auktorisoitu patentti-/tavaramerkkitoimisto markkinoinnissa",
+    "question_type": "open_response",
+    "max_points": 2,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "3c.4 Perustat ystäväsi kanssa patentti- ja tavaramerkkitoimiston\n    Ystäväsi on patenttiasiamies ja olet itse tavaramerkkiasiamies. Voitteko käyttää toimistonne\n    mainonnassa ”auktorisoitu patenttitoimisto” ja ”auktorisoitu tavaramerkkitoimisto”? Vastaa +\n    perustele",
+    "official_grading_text": "Q37 mallivastaus\nOikea vastaus: Ei (1 p)\nPerustelut (1 p): Patentti- tai tavaramerkkitoimistoilla ei ole auktorisointia. Auktorisoitu patentti- tai\ntavaramerkkitoimisto voi olla harhaanjohtavaa markkinointia eikä sitä tulisi käyttää markkinoinnissa.\nMarkkinointi olisi hyvää asiamiestapaa vastaan, sillä markkinoinnissa tulee olla totuudenmukainen (kohta 7\ntapaohjeissa). Eli ei voi käyttää. Toki voi ilmaista niin, että toimistossa työskentelee auktorisoitu\npatenttiasiamies ja auktorisoitu tavaramerkkiasiamies.",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "conclusion",
+          "description": "Correct yes/no conclusion.",
+          "max_points": 1
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal/professional-conduct reasoning.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        149,
+        152
+      ],
+      "grading_lines": [
+        260,
+        266
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2022-q4",
+    "year": 2022,
+    "exam_part": "common",
+    "category": "employee_inventions",
+    "question_number": "4",
+    "title": "Jari – työsuhdekeksintö ja oma patentointi",
+    "question_type": "open_response",
+    "max_points": 10,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 5.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": null,
+    "question_text": "KYSYMYS 4, 10p.\n\nJari työskentelee siivousalan yrityksessä siivoojana. Hän siivoaa suuressa toimistorakennuksessa, jossa on\npaljon ikkunoita. Ikkunoiden pinnalle asennettujen sälekaihtimien pyyhkiminen (rasvoittuneesta) pölystä on\ntyötehtävä, johon Jarilta menee paljon aikaa ja vaivaa käyttäen perinteisiä siivousvälineitä (joita Jari on\nkokeillut lukuisia, sillä työnantaja tuo montaa eri mallia siivousvälineitä maahan ja tarjoaa niitä\ntyöntekijöidensä käyttöön).\n\nVapaa-ajallaan Jari ryhtyi pohtimaan, olisiko tähän ongelmaan ratkaisua. Muutaman vuoden kehittelyn\njälkeen syntyy läpimurto: sälekaihdinpesuri, joka tuottaa pölyn ja lian irrottavaa höyryä, tehostaa lian\nirtoamista ultraäänellä, ja samanaikaisesti alipaineen avulla imee höyryn ja lian säilöön niin, ettei ympäristö\nkastu tai likaannu. Jari rakensi prototyypin kotona olleista tarvikkeista (höyrypesuri, imuri,\nultraäänipuhdistin ja itse suunniteltu 3D-tulostettu suulake) käyttämättä keksinnön kehittelyyn\nmuutenkaan työnantajansa välineitä tai työaikaa. Jarin testien perusteella prototyyppi nopeuttaa\nsälekaihtimien siivoamista moninkertaisesti verrattuna markkinoilla oleviin välineisiin.\n\nJari harkitsee oman yrityksen perustamista ja irtisanoutumista työpaikastaan. Hän arvioi, että keksinnön\ntuotteeksi kehittämisen edellyttämän rahoituksen saamiseksi ja keksinnön kopioinnin estämiseksi\nsälekaihdinpesuri olisi tarpeen patentoida. Jari pyytää neuvoasi seuraavasta asiasta: voiko hän patentoida\nkyseisen keksinnön itse, kun se syntyi hänen työsuhteensa aikana, ja miten hänen ylipäänsä tulisi menetellä\nasiassa. Hänen työnantajansa ei ole ohjeistanut työntekijöitään tältä osin mitenkään, eikä\ntyösopimuksessakaan ole asiasta mainintaa. Työnantajana toimiva yritys tarjoaa pääasiassa siivouspalveluja\nyrityksille, mutta myös tuo maahan ja jälleenmyy ammattisiivoojien työvälineitä. Yrityksellä on myös\nemoyhtiö, joka kehittää, valmistaa ja myy kuluttajille tarkoitettuja siivousvälineitä ja puhdistusaineita,\nmutta siihen Jarilla ei ole mitään yhteyttä.\n\nMiten neuvot Jaria – voiko hän itse patentoida tekemänsä keksinnön ja miten hänen tulisi menetellä ennen\nkuin hän voi tehdä niin? Erittele ja analysoi tilannetta annettujen tietojen valossa ja perustele vastaukseksi\nviitaten soveltuvaan lainsäädäntöön. Älä ota kantaa keksinnön patentoitavuuteen, siitä ei tehtävässä kysytä\n(voit olettaa keksinnön olevan uusi ja keksinnöllinen).",
+    "official_grading_text": "Jari työskentelee siivousalan yrityksessä siivoojana. Hän siivoaa suuressa\ntoimistorakennuksessa, jossa on paljon ikkunoita. Ikkunoiden pinnalle asennettujen\nsälekaihtimien pyyhkiminen (rasvoittuneesta) pölystä on työtehtävä, johon Jarilta menee\npaljon aikaa ja vaivaa käyttäen perinteisiä siivousvälineitä (joita Jari on kokeillut lukuisia, sillä\ntyönantaja tuo montaa eri mallia siivousvälineitä maahan ja tarjoaa niitä työntekijöidensä\nkäyttöön).\nVapaa-ajallaan Jari ryhtyi pohtimaan, olisiko tähän ongelmaan ratkaisua. Muutaman vuoden\nkehittelyn jälkeen syntyy läpimurto: sälekaihdinpesuri, joka tuottaa pölyn ja lian irrottavaa\nhöyryä, tehostaa lian irtoamista ultraäänellä, ja samanaikaisesti alipaineen avulla imee höyryn\nja lian säilöön niin, ettei ympäristö kastu tai likaannu. Jari rakensi prototyypin kotona olleista\ntarvikkeista (höyrypesuri, imuri, ultraäänipuhdistin ja itse suunniteltu 3D-tulostettu suulake)\nkäyttämättä keksinnön kehittelyyn muutenkaan työnantajansa välineitä tai työaikaa. Jarin\ntestien perusteella prototyyppi nopeuttaa sälekaihtimien siivoamista moninkertaisesti\nverrattuna markkinoilla oleviin välineisiin.\nJari harkitsee oman yrityksen perustamista ja irtisanoutumista työpaikastaan. Hän arvioi, että\nkeksinnön tuotteeksi kehittämisen edellyttämän rahoituksen saamiseksi ja keksinnön\nkopioinnin estämiseksi sälekaihdinpesuri olisi tarpeen patentoida. Jari pyytää neuvoasi\nseuraavasta asiasta: voiko hän patentoida kyseisen keksinnön itse, kun se syntyi hänen\ntyösuhteensa aikana, ja miten hänen ylipäänsä tulisi menetellä asiassa. Hänen työnantajansa\nei ole ohjeistanut työntekijöitään tältä osin mitenkään, eikä työsopimuksessakaan ole asiasta\nmainintaa. Työnantajana toimiva yritys tarjoaa pääasiassa siivouspalveluja yrityksille, mutta\nmyös tuo maahan ja jälleenmyy ammattisiivoojien työvälineitä. Yrityksellä on myös emoyhtiö,\njoka kehittää, valmistaa ja myy kuluttajille tarkoitettuja siivousvälineitä ja puhdistusaineita,\nmutta siihen Jarilla ei ole mitään yhteyttä.\nMiten neuvot Jaria – voiko hän itse patentoida tekemänsä keksinnön ja miten hänen tulisi\nmenetellä ennen kuin hän voi tehdä niin? Erittele ja analysoi tilannetta annettujen tietojen\nvalossa ja perustele vastaukseksi viitaten soveltuvaan lainsäädäntöön. Älä ota kantaa\nkeksinnön patentoitavuuteen, siitä ei tehtävässä kysytä (voit olettaa keksinnön olevan uusi ja\nkeksinnöllinen).\n\nPisteitä on annettu kokonaisarvion perusteella vastauksessa esitetyistä relevanteista ja\nvirheettömistä huomioista. Näitä ovat muun muassa seuraavat seikat:\n\nTyösuhdekeksintölain 4 §:n soveltuminen\n\n-   Keksintöä on tuskin tehty tarkemmin määrätyn tehtävän tuloksena (siivoojan työ), mutta\n    keksinnön hyväksikäyttö saattaa kuulua konsernin toiminta-alaan (yhtiö tai sen emoyhtiön).\n    Tästä syystä on perusteltua pohtia, onko keksintö syntynyt olennaisesti käyttämällä hyväksi\n    työnantajan liikkeessä tai laitoksessa saavutettuja kokemuksia (töissä havaittu ongelma, Jari\n    kokeillut eri siivousvälineitä) tai onko keksintö syntynyt työtehtävien täyttämiseksi tapahtuvan\n    toiminnan tuloksena (siivojan työ). (4 §:n 1 mom).\n-   Työnantajalla voi ainakin olla oikeus saada käyttöoikeus keksintöön tai etuoikeus sopia\n    keksinnöstä (4 §:n 2 ja 3 mom), jos sen hyväksikäyttö kuuluu Jarin työnantajan (konsernin)\n    toiminta-alaan.\n\nMenettely\n-   Jarin tule tehdä keksintöilmoitus työnantajalleen sekä odottaa työnantajan vastausta ryhtymättä\n    toimiin, joiden seurauksena voi olla keksinnön julkitulo tai hyväksikäyttö toisen lukuun.\n    (Työsuhdekeksintölain 5 § ja 6 §)\n-   Lain 8 § sisältää olettaman, jonka mukaan keksintöä on pidettävä työsuhteen aikana tehtynä\n    keksintönä.\n-   Mahdollisuus hakea itse patenttia (6 § 1 mom) kuukauden jälkeen tätä koskevasta ilmoituksesta\n    työnantajalle.\n\nTehtävänannossa edellytetään viittauksia soveltuvaan lainsäädäntöön sekä vastausten\nperustelemista annettujen tietojen valossa.",
+    "grading": {
+      "mode": "official_text_holistic",
+      "criteria": [],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen_osa_2022.pdf",
+      "question_lines": [
+        155,
+        184
+      ],
+      "grading_lines": [
+        267,
+        325
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "local_sources": [
+    {
+      "file": "Pat2023_mallivastaukset.pdf",
+      "sha256": "611816b7d217bed5f4f954a692da1b51df1d64327722a7c04ce8bb9489231160",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Patenttikoe_2020.pdf",
+      "sha256": "e79f2791309cb9764f8dfccc9dedf881413b402e3b385ef17b8007fa6dd4ae13",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Patenttikoe_2021.pdf",
+      "sha256": "7a3036adb1bc61e041d4d90de4322fcd4a4770c0614a225025152d64fb562842",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Patenttikoe_2022.pdf",
+      "sha256": "a3c9d19aa7352580e852157f4551094a42dfad617b03698c5380cc90eb573580",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Yht2023_mallivastaukset.pdf",
+      "sha256": "a77aee73ef9e218b1561eed1ded4a96ce4d680d11b3a50bf19f704574945e31b",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Yht2024_mallivastaukset.pdf",
+      "sha256": "58e1d37acb7473855c12f5dbcc6d9bff70cb136948972d4d5eef8f87b92aa9cc",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Yhteinen__osa_2021.pdf",
+      "sha256": "2d778a65961e8cbb20cebca59356954c30defa4fdcc1ab6f430c2ddc19d58988",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Yhteinen_osa_2020.pdf",
+      "sha256": "f9118571a0f28783bc04b06ad3749beccc7e4738c5a2a258ed10cea6561df792",
+      "included_text_in_dataset": true
+    },
+    {
+      "file": "Yhteinen_osa_2022.pdf",
+      "sha256": "a461827ff94629c4a32a9a1e72103ae8a86d0db67815f87214db74e2486d5897",
+      "included_text_in_dataset": true
+    }
+  ],
+  "pending_official_sources": [
+    {
+      "year": 2024,
+      "exam_part": "patent",
+      "status": "pending_exact_ingestion",
+      "reason": "Official PRH source located, but exact PDF was not supplied as a project file in the current local dataset.",
+      "url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/khddqj9pn/Pat2024_mallivastaukset.pdf"
+    },
+    {
+      "year": 2025,
+      "exam_part": "common",
+      "status": "pending_exact_ingestion",
+      "reason": "Official PRH source located. Add the PDF to the project before copying full question/model-answer text into the repository dataset.",
+      "url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/nsmzv6fuj/Yht2025_mallivastaukset.pdf",
+      "known_structure_note": "The official 2025 common-part material uses section-level half-points pass thresholds with no compensation."
+    },
+    {
+      "year": 2025,
+      "exam_part": "patent",
+      "status": "pending_exact_ingestion",
+      "reason": "Official PRH source located. Add the PDF to the project before copying full question/model-answer text into the repository dataset.",
+      "url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/2n5v1g4lz/Pat2025_mallivastaukset.pdf"
+    }
+  ]
+}

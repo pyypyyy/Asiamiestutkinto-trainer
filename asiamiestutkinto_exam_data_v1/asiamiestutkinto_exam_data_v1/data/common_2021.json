@@ -1,0 +1,407 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q1b",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "ip_business",
+    "question_number": "1B",
+    "title": "Kiertojuoma Oy – sijoituksen IPR-suojaus",
+    "question_type": "open_response",
+    "max_points": 10,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 5.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q1",
+      "max_points": 40,
+      "pass_points": 20,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q1b"
+      ]
+    },
+    "question_text": "1B Esseekysymys (10 p)\n\nKeksijä Simo Suodatin on kehittänyt vuonna 2020 autotallissaan uutta, mullistavaa jätevesien\npuhdistusteknologiaa, joilla kaupunkien jätevesistä voidaan aikaansaada juomakelpoista vettä\nenergiatehokkaasti ja kompaktisti teollisessa mittakaavassa. Simo Suodatin on rakentanut\npuhdistusteknologiasta ensimmäisen prototyypin, joka on osoittautunut toimivaksi.\n\nSimo Suodatin on jättänyt omissa nimissään suomalaisen patenttihakemuksen\npuhdistusteknologiaan liittyen 21.2.2021.\n\nSimo on perustamassa uutta yritystä, Kiertojuoma Oy:tä, kaupallistamaan yllä mainittua teknologiaa,\nmutta perustamiskokousta ei ole vielä pidetty. Hän on kutsunut ystävänsä Lasse Lantin ja Kimmo\nKolikon yhtiökumppaneiksi, Lantin toimitusjohtajaksi ja markkinoinnin vetäjäsi, ja Kolikon\nrahoitusjohtajaksi. Suodatin, Lantti ja Kolikko omistaisivat yhtiön tasaosuuksin.\n\nKun Lasse Lantti perehtyy prototyyppiin 15.3.2021, hän tekee saman tien keksinnön, joka parantaa\npuhdistusteknologian tehoa vielä entisestään.\n\nHän kertoo asiasta välittömästi myös Suodattimelle ja Kolikolle.\n\nInnostuneina teknisestä parannuksista, joilla on potentiaalia muuttaa maailmaa, Suodatin, Lantti ja\nKolikko (”trio”) soittavat 20.3.2021 riskirahoittaja Kirsti Kapitaalille konferenssipuhelun solmittuaan\nensin salassapitosopimuksen Kapitaalin kanssa. Puhelussa he kuvaavat Kapitaalille teknologian,\nsiihen liittyvän Simo Suodattimen patenttihakemuksen 21.2.2021 ja Lasse Lantin keksinnön\n15.3.2021, ja ehdottavat, että Kapitaali lähtee rahoittamaan perustettavaa Kiertojuoma Oy:tä.\nKirsti Kapitaali soittaa sinulle (saatuaan luvan triolta), kertoo yllä kuvatun tilanteen ja kysyy neuvoja.\n\nMiten neuvot riskirahoittaja Kapitaalia? Erityisesti, miten Kapitaali voi suojata mahdollisen\nsijoituksensa arvon? Tarkastele asiaa erityisesti teollisoikeudellisen suojaamisen ja ns.\n”työsuhdekeksintöjen” näkökulmasta.",
+    "official_grading_text": "Kysymyksen 1B Arviointiperusteita\n\nLähtökohta: yrityksen arvoon vaikuttaa hyvin paljon se, että alla mainittu patenttihakemus ja\nkeksintö siirtyvät kiistattomasti (kenties perustettavan) yrityksen haltuun. Yritystä ei siis ole vielä\nperustettu eivätkä keksinnöt siirry sille ilman erillisiä toimia.\n\nPatenttihakemuksen osalta tulee siis sopia Suodattimen kanssa siirron yksityiskohdista:\n\n    •    Kannattaa tarkistaa jollakin tavalla, miten hyvin patenttihakemus kuvaa keksinnön\n         (hakemuksen ”laatukysymykset”)\n    •    onko siirto ehdollinen sille, että firma perustetaan johonkin aikaan X mennessä?\n    •    Lantin keksintö olisi työsuhdekeksintölain alainen todennäköisesti – jos vain olisi olemassa\n         yritys, johon Lantti työsuhteessa. Mutta: Lantti kuitenkin toimitusjohtaja, eikä\n         työsuhdekeksintölaki sovellu häneen. Näin Lantin keksinnön osalta tulee myös sopia siirron\n         yksityiskohdista\n    •    Onko siirrolla perustettavaan yhtiöön jokin hinta, vai onko se esim. apportti-omaisuutta tms,\n         ts. mitä vastaan siirto tapahtuu\n\nMuuta:\n\n    •    mitä indikaatioita/faktaa on siitä, että nyt keksitty teknologia (patenttihakemus/ keksintö)\n         ylipäänsä on uutta ja keksinnöllistä?\n    •    työsuhdekeksintöohjesääntö kannattaa laatia yritykselle, ja mahdolliset korvaukset ym.\n         siirroista voisivat hyvin heijastella ohjesäännön korvaustasoja\n    •    teknologian brändäys - tavaramerkki/tavaramerkit?\n    •    puhdistusteknologia todennäköisesti kaupallistuu laite-implementaation kautta, jolloin\n         liikesalaisuus ei erityisen toimiva reitti kaupallistamiseen\n    •    mallisuoja ei varsin todennäköisesti toimi suojamuotona\n    •    keksintöjen näkökulmasta, tekeekö perustettava yritys omaa valmistusta vaiko teknologian\n         lisensointia, vai mitä?",
+    "grading": {
+      "mode": "official_text_holistic",
+      "criteria": [],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        76,
+        105
+      ],
+      "grading_lines": [
+        217,
+        247
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q3a",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "patent_law",
+    "question_number": "3A",
+    "title": "Zygavex – sammuminen ja pakkolupa",
+    "question_type": "open_response",
+    "max_points": 6,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 3.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q3",
+      "max_points": 10,
+      "pass_points": 5,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q3a",
+        "common-2021-q3b"
+      ]
+    },
+    "question_text": "Kysymys 3A (6 p)\n\nMaailmanlaajuisesti vallitsee vakava, eräästä alun perin trooppisesta taudista kehittynyt epidemia.\nKyseisen sairauden hoidossa käytettävän lääkkeen (tunnetaan parhaiten nimellä Zygavex)\nsaatavuusongelmien vuoksi ennustetaan, että pahenevan epidemiatilanteen vuoksi\nkuolemantapauksia tulee Suomessa jatkuvasti enemmän. Sairauteen ei ole muita lääkkeitä eikä\nrokotetta, ja käytössä on jo monia huomattavia yhteiskunnallisia toimenpiteitä, kuten\nliikkumisrajoituksia.\n\nSuomessa on tuotantokapasiteettia, teknologiaa ja osaamista, jotka mahdollistaisivat Zygavexin\nsisältämän lääkeaineen valmistuksen aloittamisen muutamassa kuukaudessa. Suomessa toimivalla\nYritys X:llä on tähän kaikki lääkesääntelyn edellyttämät valmiudet (mm. lääketehdaslupa ja\nedellytykset hakea rinnakkaislääkkeen myyntilupaa). Yritys X:n Suomessa valmistettujen lääkkeiden\navulla Suomessa voitaisiin arvioiden mukaan säästää satoja ihmishenkiä.\n\nAinoana ongelmana on, että kyseinen, Zygavexin sisältämä lääkeaine on patentoitu Suomessa.\nPatentti on myönnetty 5 vuotta sitten. Patentinhaltija A on julkisesti linjannut, ettei se ole halukas\nmyöntämään lisenssiä millekään muulle toimijalle, vaan valmistaa lääkettä ainoastaan itse ja eräiden\nsen yhteistyökumppaneiden kanssa. Yritys X ei lukeudu näihin kumppaneihin, ja patentinhaltija on\nmyös nimenomaisesti kieltäytynyt Yritys X:n pyynnöstä saada lisenssi tai ryhtyä\nyhteistyökumppaniksi. Patentinhaltija A on myös ilmoittanut, että se tulee puolustamaan\npatenttioikeuksiaan kaikissa loukkaustilanteissa.\n\nMonissa valtioissa on lisäksi äskettäin säädetty vientirajoituksista, jotka estävät kyseisen (Zygavex)\nlääkkeen hankinnat Suomeen lähes täysin. Poikkeuksena tähän on Venäjä, joka ei ole säätänyt\nlääkkeiden vientirajoituksista Suomea koskien.\n\nSuomessa kyseistä Zygavex-lääkeainetta ei ole aiemmin valmistettu tai muuten hyödynnetty ennen\nnykyistä epidemiaa patentinhaltijan toimesta. Ennen epidemiaa yksittäisiä annoksia on kuitenkin\ntuotu Suomeen ja käytetty muutamia kertoja vuodessa kaukomaiden matkoilta saatujen trooppisten\nsairauksien hoitoon.\n\nVastaa seuraaviin kysymyksiin.\n\n1) Venäläinen Jakelija R on tarjonnut Yritys X:lle ostettavaksi Zygavex-lääkkeiden eriä. Kyseiset\n   lääke-erät on valmistanut Patentinhaltija A:n yhteistyökumppani Venäjällä, joka on laskenut ne\n   markkinoille Venäjällä tukkumyyjien kautta, joilta Jakelija R on ostanut niitä. Lääke-erät\n   sijaitsevat Jakelija R:n varastossa Pietarissa. Jos Yritys X ostaisi kyseisiä lääke-eriä Jakelija R:ltä,\n   voisiko Yritys X tuoda niitä Venäjältä Suomeen ja myydä niitä edelleen Suomessa Patentinhaltija\n   A:n patentin sitä estämättä? [3 pistettä]\n2) Miten Yritys X voisi menetellä, jotta se voisi Suomessa valmistaa Zygavexin sisältämää\n   lääkeainetta Patentinhaltija A:n patentin sitä estämättä? [3 pistettä]\n        a. Mitkä Patenttilain kohdat parhaiten ehkä mahdollistaisivat valmistuksen?\n        b. Mitkä tehtävänannossa yllä mainitut tai muut seikat ovat merkityksellisiä arvioitaessa a-\n            kohdassa mainitsemiesi perusteiden edellytysten täyttymistä?\n        c. Miten Yritys X:n tulisi toimia, jotta se voisi hyödyntää a-kohdassa mainitsemiasi\n            Patenttilain kohtia?",
+    "official_grading_text": "Kysymys 3A\n\nPisteitä on annettu kokonaisarvion perusteella vastauksessa esitetyistä relevanteista ja\nvirheettömistä huomioista. Niitä ovat erityisesti seuraavat seikat:\n\n1) Patentinhaltijan yksinoikeus mm. maahantuonnin ja vaihdantaan saattamisen (PatL 3 §:n 1\n   momentti). Tapauksessa tuotteita ei ole saatettu vaihdantaan Euroopan talousalueella, joten\n   patenttioikeus ei ole sammunut kyseisten tuotteiden osalta (PatL 3 §:n 3 momentti). [max 3\n   pistettä]\n2)\n       a. Tehtävässä kerrotussa tilanteessa kyseeseen voisivat tulla erityisesti PatL 47 § (erittäin\n           tärkeä yleinen etu) ja PatL 45 § (keksinnön käyttämättä jättäminen). [max 1 piste]\n       b. Merkityksellisiä seikkoja [max 1 piste]\n                  • Erittäin tärkeä yleinen etu (PatL 47 §): vallitseva epidemiatilanne\n                  • Keksinnön käyttämättä jättäminen (PatL 45 §)\n                          Lääkeainetta ei ole aiemmin valmistettu tai muuten hyödynnetty\n                             Suomessa pl. muutamia kertoja vuodessa kaukomailta saatujen\n                             trooppisten tautien hoitoon.\n                          Patentti myönnetty 5 vuotta sitten, joten on kulunut yli 3 vuotta\n                             patentin myöntämisestä ja 4 vuotta hakemisesta.\n                  • Yritys X:n edellytykset hyväksyttävällä tavalla käyttää keksintöä pakkoluvan\n                    mukaisesti: Yritys X:n lääkesääntelyn edellyttämät ja muut tehtävästä ilmenevät\n                    valmiudet (PatL 49 §).\n                  • Yritys X:n todistettava yritys saada käyttölupa patentoituun keksintöön\n                    kohtuullisin kaupallisin ehdoin ennen pakkolupaa koskevan vaatimuksen\n                    tekemistä: tehtävänannon mukaan Yritys X on yrittänyt saada lisenssiä;\n                    tehtävänannosta ei kuitenkaan ilmene, olivatko ehdot kaupallisesti kohtuullisia\n                    (PatL 49 §).\n       c. Ks. PatL 50 § [max 1 piste]",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "import-exhaustion",
+          "description": "Analyse import from Russia and exhaustion.",
+          "max_points": 3
+        },
+        {
+          "id": "compulsory-license-basis",
+          "description": "Identify relevant Patent Act compulsory licence provisions.",
+          "max_points": 1
+        },
+        {
+          "id": "prerequisites",
+          "description": "Analyse facts relevant to compulsory-licence prerequisites.",
+          "max_points": 1
+        },
+        {
+          "id": "procedure",
+          "description": "Explain procedure required to obtain/use compulsory licence.",
+          "max_points": 1
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        157,
+        203
+      ],
+      "grading_lines": [
+        341,
+        372
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q3b",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "international_ip",
+    "question_number": "3B",
+    "title": "Kansallinen kohtelu ja tavaroiden vapaa liikkuvuus",
+    "question_type": "open_response",
+    "max_points": 4,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 2.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q3",
+      "max_points": 10,
+      "pass_points": 5,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q3a",
+        "common-2021-q3b"
+      ]
+    },
+    "question_text": "Kysymys 3B (4 p)\n\nVastaa seuraaviin kysymyksiin\n\n1)            Mitä tarkoitetaan kansallisen kohtelun vaatimuksella kansainvälisessä\nimmateriaalioikeudessa? Nimeä vastauksessasi kansainvälinen sopimus, johon tällainen vaatimus\nsisältyy.\n\n2)            Miten tavaroiden vapaata liikkuvuutta koskeva EU:n perusvapaus ilmenee\nimmateriaalioikeudessa? Anna esimerkki tilanteesta, jossa vapaa liikkuvuus rajoittaa\nimmateriaalioikeussuojaa.",
+    "official_grading_text": "Kysymys 3B\n\nPisteitä on annettu kokonaisarvion perusteella vastauksessa esitetyistä relevanteista ja\nvirheettömistä huomioista. Niitä ovat erityisesti seuraavat seikat:\n\n    1) Kansallisen kohtelun vaatimus sisältyy mm. Pariisin yleissopimukseen (2 artikla) ja TRIPS-\n       sopimukseen (3 artikla). Kansallisen kohtelun periaate tarkoittaa sitä, että sopimukseen\n       liittyneen valtion tulee antaa muiden sopimusvaltion kansalaisille sama kohtelu kuin omille\n       kansalaisilleen (ei heikompaa kohtelua) sopimuksen alaan kuuluvissa kysymyksissä. [max 2\n       pistettä]\n    2) Tavaroiden vapaa liikkuvuutta koskeva perusvapaus ilmenee erityisesti\n       immateriaalioikeuksien sammumisena EU:ssa (ks. EUT:n SEUT 34 artiklaa koskeva\n       oikeuskäytäntö, EU:n immateriaalioikeutta koskeva sekundaarilainsäädännön sammumista\n       koskevat kohdat sekä jäsenvaltioiden kansallisen lainsäädännön vastaavat kohdat).\n       Esimerkkinä silloin kun oikeudenhaltija on saattanut immateriaalioikeudella suojatun\n       tuotteensa vaihdantaa unionin alueella, oikeudenhaltijat eivät yleensä sammumisen vuoksi\n       enää voi estää tuotteen tuontia toiseen jäsenvaltioon talousalueen eikä muuta tuotteiden\n       levittämistä Euroopan unionin alueella. [max 2 pistettä]",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "national-treatment",
+          "description": "Explain national treatment and name a relevant international treaty.",
+          "max_points": 2
+        },
+        {
+          "id": "free-movement",
+          "description": "Explain EU free movement in IP and give an exhaustion example.",
+          "max_points": 2
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        204,
+        214
+      ],
+      "grading_lines": [
+        373,
+        390
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q2a",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "Q2A",
+    "title": "Ammattinimikkeen luvaton käyttö",
+    "question_type": "open_response",
+    "max_points": 3,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.5,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q2",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q2a",
+        "common-2021-q2b",
+        "common-2021-q2c",
+        "common-2021-q2d"
+      ]
+    },
+    "question_text": "Kysymys 2A (3 p)\n\nKari Kari valmistuu diplomi-insinööriksi Aalto-yliopiston majakanvartijatekniikan osastolta (v 2021).\nTämä on Kari Karin ensimmäinen ja ainoa korkeakoulututkinto.\n\nKari Kari perustaa patenttiasiamiestoimiston ja alkaa käyttää ammattinimikettä patenttiasiamies\nvaikka Kari Kari ei ole Lain auktorisoiduista teollisoikeusasiamiehistä 6 §:n mukaisesti auktorisoitu\nasiamies.\n\nMillä tavalla voit viittaamalla Lakiin auktorisoiduista teollisoikeusasiamiehistä puuttua asiaan ja\nsaada Kari Kari lopettamaan edellä mainitun ammattinimikkeen käyttämisen?",
+    "official_grading_text": "Kysymys 2A (3 p)\n\nKari Kari valmistuu diplomi-insinööriksi Aalto-yliopiston majakanvartijatekniikan osastolta (v 2021). Tämä\non Kari Karin ensimmäinen ja ainoa korkeakoulututkinto.\n\nKari Kari perustaa patenttiasiamiestoimiston ja alkaa käyttää ammattinimikettä patenttiasiamies vaikka Kari\nKari ei ole Lain auktorisoiduista teollisoikeusasiamiehistä 6 §:n mukaisesti auktorisoitu asiamies.\n\nMillä tavalla voit viittaamalla Lakiin auktorisoiduista teollisoikeusasiamiehistä puuttua asiaan ja saada Kari\nKari lopettamaan edellä mainitun ammattinimikkeen käyttämisen?\n\nKysymys 2A Vastaus (1.5 p) + Perustelut (1.5 p)\n\nVastaus: Kanne tuomioistuimeen, ensin maininta siitä Kari Karille, sen jälkeen (jos ei lopeta), kanne\n\nPerustelut:\n\n7 § Oikeus käyttää ammattinimikettä– Laki auktorisoiduista teollisoikeusasiamiehistä\n\n               Patenttiasiamiehen, tavaramerkkiasiamiehen, mallioikeusasiamiehen tai\n               teollisoikeusasiamiehen ammattinimikettä saa käyttää vain 6 §:n mukaisesti auktorisoitu\n               asiamies.\n\n               Patenttiasiamieheltä edellytetään, että hän on suorittanut 2 §:n 1 momentin 2 kohdassa\n               tarkoitetun asiamiestutkinnon patenttioikeutta koskevan osa-alueen,\n               tavaramerkkiasiamieheltä, että hän on suorittanut tavaramerkkioikeutta koskevan osa-\n               alueen, mallioikeusasiamieheltä, että hän on suorittanut mallioikeutta koskevan osa-alueen\n               sekä teollisoikeusasiamieheltä, että hän on suorittanut patenttioikeutta,\n               tavaramerkkioikeutta ja mallioikeutta koskevat osa-alueet.\n\n17 § Rangaistussäännökset – Laki auktorisoiduista teollisoikeusasiamiehistä\n\n               Joka 7 §:n vastaisesti tahallaan käyttää ammattinimikettä patenttiasiamies,\n               tavaramerkkiasiamies, mallioikeusasiamies tai teollisoikeusasiamies, on tuomittava\n               auktorisoidun asiamiehen ammattinimikkeen luvattomasta käyttämisestä sakkoon.\n\n               Rangaistus 9 §:ssä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain\n               (39/1889) 38 luvun 1 tai 2 §:n mukaan, jollei teosta muualla laissa säädetä ankarampaa\n               rangaistusta.\n\n               Tuomioistuimen on lähetettävä teollisoikeusasiamieslautakunnalle jäljennös 1 tai\n               2 momentissa tarkoitetussa asiassa antamastaan päätöksestä.",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "answer",
+          "description": "Correct conclusion according to official answer.",
+          "max_points": 1.5
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal reasoning according to official answer.",
+          "max_points": 1.5
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        111,
+        121
+      ],
+      "grading_lines": [
+        248,
+        289
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q2b",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "Q2B",
+    "title": "Auktorisoinnin palauttaminen valvontamaksun jälkeen",
+    "question_type": "open_response",
+    "max_points": 3,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.5,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q2",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q2a",
+        "common-2021-q2b",
+        "common-2021-q2c",
+        "common-2021-q2d"
+      ]
+    },
+    "question_text": "Kysymys 2B (3 p)\n\nOlet suorittanut asiamiestutkinnon ja sinulle myönnetään auktorisointi Lain auktorisoiduista\nteollisoikeusasiamiehistä 6 §:n perusteella, onnittelut siitä. Myöhemmin kuitenkin suivaannut\nteollisoikeusasiamieslautakunnan valvontatoiminnan johdosta niin pahasti, että protestiksi päätät\njättää valvontamaksut maksamatta. Protestisi seurauksena auktorisointisi poistetaan. Myöhemmin\nhuomaat, että auktorisointi olisi sittenkin hyödyllinen, ja päätät ryhtyä maksamaan valvontamaksua\nuudelleen.\n\nMitä mahdollisuuksia sinulla on päästä jälleen auktorisoitujen asiamiesten listalle?",
+    "official_grading_text": "Kysymys 2B (3 p)\n\nOlet suorittanut asiamiestutkinnon ja sinulle myönnetään auktorisointi Lain auktorisoiduista\nteollisoikeusasiamiehistä 6 §:n perusteella, onnittelut siitä. Myöhemmin kuitenkin suivaannut\nteollisoikeusasiamieslautakunnan valvontatoiminnan johdosta niin pahasti, että protestiksi päätät jättää\nvalvontamaksut maksamatta. Protestisi seurauksena auktorisointisi poistetaan. Myöhemmin huomaat, että\nauktorisointi olisi sittenkin hyödyllinen, ja päätät ryhtyä maksamaan valvontamaksua uudelleen.\n\nMitä mahdollisuuksia sinulla on päästä jälleen auktorisoitujen asiamiesten listalle?\n\nKysymys 2B Vastaus (1.5 p) + Perustelut (1.5 p)\n\nVastaus+ Perustelut : On mahdollista päästä uudestaan auktorisoitujen asiamiesten listalle, mikäli\n\n    1. kelpoisuusvaatimukset täyttyvät (Laki auktorisoiduista teollisoikeusasiamiehistä - 5 §\n       Kelpoisuusvaatimukset), ja\n    2. mikäli tarvittavat toimenpiteet suoritetaan (Laki auktorisoiduista teollisoikeusasiamiehistä 6 §\n       Auktorisoinnin hakemis- ja myöntämismenettely).",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "answer",
+          "description": "Correct conclusion according to official answer.",
+          "max_points": 1.5
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal reasoning according to official answer.",
+          "max_points": 1.5
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        123,
+        132
+      ],
+      "grading_lines": [
+        290,
+        307
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q2c",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "Q2C",
+    "title": "Valvonta EUIPO:ssa tapahtuneesta huolimattomuudesta",
+    "question_type": "open_response",
+    "max_points": 3,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.5,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q2",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q2a",
+        "common-2021-q2b",
+        "common-2021-q2c",
+        "common-2021-q2d"
+      ]
+    },
+    "question_text": "Kysymys 2C (3 p)\n\nOlet suorittanut asiamiestutkinnon ja sinulle myönnetään auktorisointi Lain auktorisoiduista\nteollisoikeusasiamiehistä 6 §:n perusteella, onnittelut siitä. Sinulla on lisäksi oikeus edustaa\nhakijoita/haltijoita Euroopan unionin teollisoikeuksien virastossa (EUIPO). Oletetaan että toimit\nhuolimattomasti EUIPO:ssa ja että edustamasi yhtiö toimintasi perusteella menettää oikeuden\nEUIPO:ssa.\n\nVoiko edustamasi yhtiö laittaa sinua koskevan valvonta-asian vireille\nteollisoikeusasiamieslautakunnalle asiassa?",
+    "official_grading_text": "Kysymys 2C (3 p)\nOlet suorittanut asiamiestutkinnon ja sinulle myönnetään auktorisointi Lain auktorisoiduista\nteollisoikeusasiamiehistä 6 §:n perusteella, onnittelut siitä. Sinulla on lisäksi oikeus edustaa\nhakijoita/haltijoita Euroopan unionin teollisoikeuksien virastossa (EUIPO). Oletetaan että toimit\nhuolimattomasti EUIPO:ssa ja että edustamasi yhtiö toimintasi perusteella menettää oikeuden EUIPO:ssa.\n\nVoiko edustamasi yhtiö laittaa sinua koskevan valvonta-asian vireille teollisoikeusasiamieslautakunnalle\nasiassa?\n\nKysymys 2C Vastaus (1.5 p) + Perustelut (1.5 p)\n\nKyllä, ei rajoitu ainoastaan Suomea koskeviin asioihin.\n\nPerustelut: Esim HYVÄÄ ASIAMIESTAPAA KOSKEVAT OHJEET, eivät rajoitu Suomea koskeviin asioihin",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "answer",
+          "description": "Correct conclusion according to official answer.",
+          "max_points": 1.5
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal reasoning according to official answer.",
+          "max_points": 1.5
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        134,
+        143
+      ],
+      "grading_lines": [
+        308,
+        321
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2021-q2d",
+    "year": 2021,
+    "exam_part": "common",
+    "category": "ethics",
+    "question_number": "Q2D",
+    "title": "Toimeksiannon siirtyminen ja laskukopiot",
+    "question_type": "open_response",
+    "max_points": 3,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 1.5,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2021-q2",
+      "max_points": 12,
+      "pass_points": 6,
+      "rule_basis": "Source states that each of the three questions, all subparts combined, must obtain at least half the points.",
+      "members": [
+        "common-2021-q2a",
+        "common-2021-q2b",
+        "common-2021-q2c",
+        "common-2021-q2d"
+      ]
+    },
+    "question_text": "Kysymys 2D (3 p)\n\nSinulle siirtyy toimeksianto toiselta auktorisoidulta asiamieheltä, joka on toisen asiamiestoimiston\npalveluksessa. Mainittu toinen auktorisoitu asiamies toimittaa sinulle toimeksiantoon liittyvät\nasiakirjat, mutta huomaat että kaikki toimeksiantoon liittyvät laskut puuttuvat.\n\nOnko sinulla oikeus saada mainitulta toiselta auktorisoidulta asiamieheltä lisäksi kopiot laskuista?\nPerustele.",
+    "official_grading_text": "Kysymys 2D (3 p)\n\nSinulle siirtyy toimeksianto toiselta auktorisoidulta asiamieheltä, joka on toisen asiamiestoimiston\npalveluksessa. Mainittu toinen auktorisoitu asiamies toimittaa sinulle toimeksiantoon liittyvät asiakirjat,\nmutta huomaat että kaikki toimeksiantoon liittyvät laskut puuttuvat.\n\nOnko sinulla oikeus saada mainitulta toiselta auktorisoidulta asiamieheltä lisäksi kopiot laskuista?\n\nPerustele.\n\nKysymys 2D Vastaus (1.5 p) + Perustelut (1.5 p)\n\nEi, laskut eivät ole tarpeellisia tietoja ja/tai tarpeellisia asiakirjoja asian hoitamista varten.\n\nPerustelut: viimeinen lause kolmannessa kappaleessa kohdassa 4.6. Menettely tehtävästä luovuttaessa 1 -\nHYVÄÄ ASIAMIESTAPAA KOSKEVAT OHJEET\nToimeksiannosta luopuva auktorisoitu asiamies on oikeutettu ilmoittamaan luopumisen syyn asiakkaan\nuudelle asiamiehelle. Uusi asiamies on oikeutettu saamaan asiaa aikaisemmin hoitaneelta auktorisoidulta\nasiamieheltä kaikki tarpeelliset tiedot ja asiakirjat toimeksiannon hoitamista varten.",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "answer",
+          "description": "Correct conclusion according to official answer.",
+          "max_points": 1.5
+        },
+        {
+          "id": "reasoning",
+          "description": "Correct legal reasoning according to official answer.",
+          "max_points": 1.5
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yhteinen__osa_2021.pdf",
+      "question_lines": [
+        145,
+        152
+      ],
+      "grading_lines": [
+        322,
+        340
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  }
+]

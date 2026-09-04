@@ -1,0 +1,105 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2024-q2",
+    "year": 2024,
+    "exam_part": "common",
+    "category": "employee_inventions",
+    "question_number": "2",
+    "title": "Sahaturbo Oy – työsuhdekeksintö, määräaika ja liikesalaisuudet",
+    "question_type": "open_response",
+    "max_points": 10,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 5.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2024-q2",
+      "max_points": 10,
+      "pass_points": 5,
+      "rule_basis": "Source: each question 1–4 requires at least half the points; no compensation.",
+      "members": [
+        "common-2024-q2"
+      ],
+      "compensation_allowed": false
+    },
+    "question_text": "Kysymys 2 / 2024 / IP ja liiketoiminta\n\nEsseekysymys max 10p.\n\n              Metsätraktoreiden sahauslaitteita kehittävän ja valmistavan yrityksen Sahaturbo Oy\n              toimitusjohtaja Toivo Teränen saa 2.5.2025 harmillisen viestin. Sahaturbo Oy:n\n              pitkäaikainen, tehokas ja innovatiivinen työntekijä Heikki Halkonen on irtisanoutunut yhden\n              kuukauden irtisanomisajalla. Teränen ja Halkonen ovat ystäviä jo opiskeluajoilta, joten\n              pettymys on suuri.\n\n              Kesän korvilla pidetään Sahaturbossa Halkosen läksijäiset, ja 5.6.2025 Halkonen aloittaa\n              Sahaturbo Oy:n kilpailijalla, sahalaitevalmistaja Pilketin Oy:ssä.\n\n              Kesälomalla 20.7.2025 Teränen muistaa rantasaunassa istuessaan, että Halkonen on tehnyt\n              merkittävältä vaikuttavan parannuksen automaattisahan teräketjun voiteluun liittyen\n              helmikuussa 2025, ja kertonut asiasta seikkaperäisesti sähköpostitse Teräselle. Sahaketjun\n              voiteluratkaisu onkin ollut Sahaturbo Oy:n laitteiden menestyksen kulmakivistä, ja asiaan\n              liittyy paljon yrityksen hiljaista tietoa, Sahaturbo Oy:ssä tehtyjä automaatio-ohjelmistoja ja\n              osaamista. Sahaturbossa onkin sovittu, että voiteluratkaisun yksityiskohdista ja\n              toimintaparametreistä ollaan talon ulkopuolella hipihiljaa.\n\n              Teräsen muistikuvat työsuhteessa tehdyistä keksinnöistä ja niiden lainsäädännöstä ovat\n              hyvin hatarat, mutta hänellä on kammottava aavistus siitä, että keksinnön saamisessa\n              takaisin Sahaturbo Oy:lle voi olla vakavia ongelmia. Ja Halkonen on mennyt vieläpä kilpailijan\n              palvelukseen!\n\n              Sahaturbo Oy:ssä ei ole aikaisemmin tehty yhtiön mielestä patentoitavina pidettäviä\n              keksintöjä, joten mitään aikaisempaa käytäntöä ei tällaisessa asiassa ole.\n\n              Saunan lauteilta pelonsekainen hiki otsalla pois kavutessaan Teränen muistaa patentoinnin\n              peruskurssilla ammoin kuulemansa ohjeen, jonka mukaan julkitullutta keksintöä ei voi\n              patentoida. Näin hänen päähänsä pälkähtää idea julkaista Halkosen keksintö Läyliäisen\n              Sanomat-paikallislehdessä mahdollisimman nopeasti. ”Eivätpähän ainakaan patentoi ideaa\n              Pilkettimessä!”, tuumii Teränen.\n\n              Saunan jälkeen hän kuitenkin hieman rauhoittuu ja soittaa sinulle, kuvaten puhelussanne\n              sinulle tapahtumien kulun kuten yllä.\n\n              Miten neuvot toimitusjohtaja Terästä?",
+    "official_grading_text": "TEOASM-koe yleinen osa, kysymys 31 / vuosi 2024 / hyvän vastauksen piirteitä\n\nOlli Pekonen\n\nKeksintö on kuvattu sähköpostitse seikkaperäisesti, joten ilmoitusta on syytä pitää lähtökohtaisesti\nkeksintöilmoituksena patentoitavissa olevasta keksinnöstä (Laki oikeudesta työntekijän tekemiin\nkeksintöihin).\n\n    -   Ilmoitus käynnistää 4kk määräajan juoksemisen\n    -   Keksintö kuuluu lähtökohtaisesti Halkoselle, koska 4kk määräaika mennyt umpeen\n    -   Kuitenkin Teränen voisi mm. syyllistyä salassapitovelvoitteen rikkomiseen, mikäli hän julkistaisi\n        Halkosen keksinnön.\n    -   Samoin julkaisu tuhoaisi keksinnön patentoitavuuden ja tekisi tilanteen ratkaisemisen\n        neuvotteluteitse varsin mahdottomaksi. Julkistamisidea on siis hyvin huono.\n\n    -   Teräsellä ei ole tietoa, missä määrin Halkonen on kuvannut ideaansa muille, esim. Pilketin Oy:lle.\n    -   Halkonen ja Teränen ovat vanhoja ystäviä\n\n    Tapoja edetä on ainakin:\n\n    1) Ensisijainen vaihtoehto on yrittää hankkia, neuvotteluteitse ja korvausta vastaan, keksintöä\n       takaisin Sahaturbo Oy:lle\n\n    2) Mikäli tämä reitti ei onnistu (jolloin asia voi mennä riitaisaksi), Teränen voi argumentoida, että\n       keksintöön liittyy runsaasti Sahaturbon liikesalaisuuksien piiriin liittyviä seikkoja, joita Halkonen\n       ei saa paljastaa kolmansille. Näin tilanteen voi yrittää palauttaa vaihtoehtoon 1)\n\n    3) Keksintö saattaa myös olla esim. uutuuden tai keksinnöllisyyden takia sellaiseksi, että se ei ole\n       patentoitavissa. Tällöin se ei kuulu työsuhdekeksintölain piiriin, jolloin taas ei ole olemassa 4kk\n       määräaikaa. Kyseessä on tällöin liikesalaisuuteen liittyvä asia, johon Sahaturbolla on edelleen\n       oikeus vrt. patentoitavissa oleva keksintö. Tämä lähestymistapa on riidoille altis ja asettaisi\n       Sahaturbon mahdollisen oman patentoinnin keksinnön osalta hyvin outoon valoon, ellei\n       keksintöä kehitetä olennaisesti ennen patenttihakemuksen tekemistä.\n\n    Terästä tulee kannustaa työsuhdekeksintöohjesäännön laatimiseen, sekä asianhallintajärjestelmän\n    perustamiseen ja säntilliseen käyttämiseen määräaikojen noudattamisen laadun parantamiseksi.",
+    "grading": {
+      "mode": "official_text_holistic",
+      "criteria": [],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yht2024_mallivastaukset.pdf",
+      "question_lines": [
+        141,
+        179
+      ],
+      "grading_lines": [
+        454,
+        496
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "common-2024-q4",
+    "year": 2024,
+    "exam_part": "common",
+    "category": "international_ip",
+    "question_number": "4",
+    "title": "IlmaCX – TRIPS ja patenttioikeuden sammuminen",
+    "question_type": "open_response",
+    "max_points": 10,
+    "max_points_basis": "explicit",
+    "practice_pass_points": 5.0,
+    "practice_pass_rule": "At least 50% of this practice item.",
+    "exam_pass_group": {
+      "id": "common-2024-q4",
+      "max_points": 10,
+      "pass_points": 5,
+      "rule_basis": "Source: each question 1–4 requires at least half the points; no compensation.",
+      "members": [
+        "common-2024-q4"
+      ],
+      "compensation_allowed": false
+    },
+    "question_text": "Kysymys 4 (IPR-järjestelmä) (10 pistettä)\n\n              Suomalainen IlmaCX on hiilidioksidin talteenoton edelläkävijä maailmassa. Se on patentoinut\n              keksintöjä, jotka liittyvät katalyyttiaineeseen, laitteisiin ja menetelmiin, joilla ilmasta voidaan\n              ottaa hiilidioksidia talteen käyttäen vähemmän energiaa ja pienemmin kustannuksin kuin\n              muilla teknologioilla.\n\n              Ilmastotavoitteidensa saavuttamiseksi valtio X on päättänyt eräiden ilmastoteknologioiden\n              vapauttamista patenttisuojan piiristä. Valtio X on säätänyt lain, jossa kyseisten\n              teknologioiden osalta patentinhaltijoita estetään panemasta täytäntöön millään tavoin\n              kyseisiä patentteja. Laissa sen sijaan säädetään, että valtio X maksaa ”hyvitysmaksuna”\n              vuosittain patentinhaltijalle rahamäärän, joka perustuu arvioon patentoidun keksinnön\n              avulla talteen otetun hiilidioksidin määrästä. Esimerkiksi IlmaCX:n osalta ”hyvitysmaksuna”\n              saatava määrä on vain noin kymmenesosa siitä, mitä se lisenssimaksuina olisi saanut\n              kyseisestä valtiosta (jos patentteja olisi voinut panna täytäntöön ja siten lisensoida), minkä\n              lisäksi myös sen laitteista saatavat myyntitulot ovat laskeneet huomattavasti sen\n              seurauksena, että muut yritykset myyvät IlmaCX:n patentteja loukkaavia laitteita.\n\n              Tuomioistuin valtiossa X käsittelee riita-asiaa, jossa kantaja IlmaCX vaatii vastaajaa (HT\n              Entreprises) päättämään patenttiloukkauksen (mm. IlmaCX:n patentteja loukkaavan\n              laitteiden valmistuksen ja myynnin). HT Entreprises on vedonnut yllä mainittuun lakiin ja\n              vaatinut kanteen hylkäämistä sen perusteella. On kiistatonta, että mainittu laki estää\n              patenttien täytäntöönpanon tuomioistuimissa, mukaan lukien loukkauksen toteamisen ja\n              loukkausta koskevien seuraamusten määräämisen, tiettyjen ilmastoteknologioiden osalta,\n              joiden joukkoon IlmaCX:n patentit myös kiistatta kuuluvat.\n\n              Tuomioistuin on kuitenkin pyytänyt osapuolia esittämään sille näkemyksensä siitä, onko\n              kyseinen laki Maailman kauppajärjestön (WTOn) niin sanotun TRIPS-sopimuksen (Sopimus\n              teollis- ja tekijänoikeuksien kauppaan liittyvistä näkökohdista) mukainen. Kyseisessä valtiossa\n              tuomioistuinten tulee tulkita ja soveltaa kansallisia lakejaan kansainvälisen oikeuden\n              vaatimusten mukaisesti niin, että kansainvälisten sopimusten velvoitteiden vastaiset\n              kansalliset säännökset tulee jättää soveltamatta. Valtio X on Maailman kauppajärjestön\n              jäsen, joten TRIPS-sopimus velvoittaa sitä. Valtio X ei ole Euroopan unionin jäsen eikä kuulu\n              Euroopan talousalueeseen.\n\n              HT Entreprises tuo lisäksi Suomeen laitteita, jotka IlmaCX on myynyt valtiossa X, ja myy niitä\n              Suomessa toimiville asiakkaille. Koska hintataso valtiossa X on huomattavasti matalampi kuin\n              Suomessa, toiminta on IlmaCX:n kannalta epämieluisaa. HT Entreprises myös myy Suomessa\n              IlmaCX:n laitteita, jotka IlmaCX on alun perin myynyt asiakkaille eräässä toisessa EU:n\n              jäsenvaltiossa Suomea edullisempaan hintaan sikäläisen alemman hintatason vuoksi. Näitä\n              laitteita on markkinoilla runsaasti, koska kyseisessä valtiossa on tuettu julkisista varoista\n              laitteiden hankintoja, mikä on tehnyt niiden edelleen myynnistä muualle EU:n alueelle\n              kannattavaa liiketoimintaa.\n\n              IlmaCX:llä on Suomessa voimassa patentteja, joiden patenttivaatimusten piiriin laitteet\n              kiistattomasti kuuluvat. IlmaCX on ilmoittanut HT Entreprises -yritykselle, että sen tulee\n              lopettaa tuotteiden maahantuonti Suomeen ja niiden myynti Suomessa, koska toiminta\n              loukkaa IlmaCX:n patentteja. HT Entreprises on vastannut tähän, että sen toiminta on täysin\n              laillista, koska laitteet on laillisesti myyty valtio X:ssä tai mainitussa EU:n jäsenvaltiossa\n              IlmaCX:n toimesta. HT Entreprises katsoo, että sen toiminta ei siten loukkaa IlmaCX:n\n              patentteja millään tavoin.\n\nIlmaCX pyytää sinulta neuvoa seuraaviin kysymyksiin.\n\n1) Mitä TRIPS-sopimuksen vaatimuksia valtio X:n lainsäädäntö voi erityisesti rikkoa? Esitä kolme mielestäsi\n   keskeisintä TRIPS-sopimukseen perustuvaa argumenttia, joihin IlmaCX voisi oikeudenkäynnissä\n   valtiossa X vedota sen tueksi, että mainitun kansallisen lain ei tulisi TRIPS-sopimuksen vastaisena estää\n   IlmaCX:n patenttien täytäntöönpanoa. Viittaa relevantteihin TRIPS-sopimuksen artikloihin ja perustele\n   vastauksesi hyödyntäen tehtävänannossa kerrottuja tietoja lainsäädännöstä, sen vaikutuksista ja\n   olosuhteista. [4 pistettä]\n2) Miten arvioit HT Entreprises -yrityksen väitettä, jonka mukaan sen harjoittama IlmaCX:n laitteiden\n   maahantuonti Suomeen ja laitteiden edelleen myynti Suomessa ei loukkaa IlmaCX:n patentteja?\n   Analysoi HT Entreprises -yrityksen tehtävänannossa kuvattua toimintaa, viittaa relevantteihin\n   lainkohtiin ja oppeihin, ja perustele johtopäätöksesi. [6 pistettä]\n\nOleta vastauksessasi, että IlmaCX:n patentit ovat voimassa ja päteviä ja että loukkaavaksi väitetyt laitteet\nkuuluvat IlmaCX:n patenttien patenttivaatimuksien piiriin. Toisin sanoen vastauksissa ei tule arvioida\npatenttien mahdollisia kumoamisperusteita tai sitä, kuuluvatko ne patenttivaatimusten piiriin.",
+    "official_grading_text": "Arviointiperusteet\n\n1-kohta\n\nUseampi TRIPS-sopimuksen vaatimus on sellainen, johon IlmaCX voisi oikeudenkäynnissä valtiossa X vedota\nsen tueksi, ettei patenttien täytäntöönpano tule estää kyseisellä kansallisella lailla. Varsinkin loukkauksen\nseuraamuksia ja yleisemmin täytäntöönpanoa koskevat vaatimukset (osa III), yksinoikeuksia (artikla 28),\npatentoitavuutta koskevat vaatimukset (artikla 27), patentteja koskevia poikkeuksia (artikla 30) ja\npakkolisenssejä koskevat edellytykset (artikla 31) ovat tilanteessa relevantteja.\n\nKoska yksinoikeuksia, täytäntöönpanoa (ml. seuraamuksia) rajoitetaan tapauksessa kansallisella lailla,\nniiden näkökulmasta valtio X:n laki vaikuttaa ongelmalliselta. Myös patenttisuojaa (yksinoikeuksia)\nkoskevien vaatimusten sekä sitä koskevien poikkeuksien ja pakkolisenssiä koskevien edellytysten osalta\nkansallinen laki vaikuttaa ongelmalliselta, koska laki rajaa osan keksinnöistä patenttisuojan ulkopuolelle\nkokonaan, laki ei vaikuta kolmen kohdan testin mukaiselta (poikkeukset vaikuttanevat ns. normaaliin\npatenttien hyödyntämiseen) ja koska laki ei vaikuta täyttävän pakkolisenssejä koskevia vaatimuksia.\n\nEnimmäispistemäärä 1-kohdasta on neljä pistettä. Pisteitä on annettu kokonaisarvion perusteella\nvastauksessa esitetyistä relevanteista ja virheettömistä huomioista (ml. muistakin kuin yllä mainituista).\nTehtävänannon mukaisesti vastauksessa on tullut viitata relevantteihin (IlmaXC:n kantaa tukeviin) TRIPS-\nsopimuksen artikloihin ja vastaus on tullut perustella annettujen tietojen valossa. Puuttuvista viittauksista\nja perusteluista on vähennetty pisteitä. Virheelliset väittämät vaikuttavat arviointiin pisteitä alentavasti\nkokonaisarviossa.\n\n2-kohta\n\nPatenttioikeudet sammuvat EU:ssa (ETA:ssa) alueellisesti kun tuote on myyty oikeudenhaltijan toimesta tai\nsuostumuksella EU:ssa (ETA:n alueella). Tästä syystä HT Entreprisesin väite voi pitää paikkansa siltä osin,\nkun kyse on EU:ssa IlmaCX:n toimesta myydyistä laitteista. Sen sijaan väite ei pidä paikkansa valtiossa X\nmyytyjen tuotteiden osalta, koska valtio X ei ole EU:n jäsen eikä kuulu Euroopan talousalueeseen. Niiden\nosalta patenttioikeus ei ole sammunut, vaan IlmaCX voi lähtökohtaisesti estää yksinoikeuksiinsa vedoten\nsen patentteja loukkaavan maahantuonnin ja myynnin.\n\nEnimmäispistemäärä 2-kohdasta on kuusi pistettä. Pisteitä on annettu kokonaisarvion perusteella\nvastauksessa esitetyistä relevanteista ja virheettömistä huomioista (ml. muistakin kuin yllä mainituista).\nTehtävänannon mukaisesti vastauksessa on tullut analysoida HT Entreprises -yrityksen toimintaa, viitata\nrelevantteihin lainkohtiin ja oppeihin sekä perustella johtopäätökset. Vastauksissa on erityisesti tullut\ntunnistaa ero ETA-alueella ja sen ulkopuolella laskettujen tuotteiden osalta. Puuttuvista viittauksista sekä\nperusteluista on vähennetty pisteitä. Virheellisistä väittämistä sekä tehtävänkuvauksessa annettujen\nfaktojen vastaisista väitteistä on vähennetty pisteitä kokonaisarviossa.",
+    "grading": {
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "trips",
+          "description": "TRIPS analysis requested in part 1, with relevant articles and reasoning based on facts.",
+          "max_points": 4
+        },
+        {
+          "id": "exhaustion",
+          "description": "Part 2: analyse EEA exhaustion and distinguish products first marketed in EEA from products first marketed in State X.",
+          "max_points": 6
+        }
+      ],
+      "penalties": [],
+      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+    },
+    "source": {
+      "file": "Yht2024_mallivastaukset.pdf",
+      "question_lines": [
+        235,
+        304
+      ],
+      "grading_lines": [
+        497,
+        540
+      ],
+      "provenance": "PRH exam PDF supplied in the project / extracted with pdftotext"
+    },
+    "legal_state_notice": "Arviointi perustuu kyseisen koevuoden viralliseen mallivastaukseen ja arvosteluperusteisiin. Lainsäädäntö, määräykset, ohjeet ja oikeuskäytäntö ovat voineet muuttua. Tarkista ajantasainen oikeustila erikseen.",
+    "notes": []
+  }
+]

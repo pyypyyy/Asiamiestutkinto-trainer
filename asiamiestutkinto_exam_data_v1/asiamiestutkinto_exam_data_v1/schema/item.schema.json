@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Asiamiestutkinto training item",
+  "type": "object",
+  "required": [
+    "id",
+    "year",
+    "exam_part",
+    "question_number",
+    "max_points",
+    "practice_pass_points",
+    "question_text",
+    "official_grading_text",
+    "grading",
+    "source",
+    "legal_state_notice"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "exam_part": {
+      "enum": [
+        "common",
+        "patent"
+      ]
+    },
+    "category": {
+      "type": "string"
+    },
+    "question_number": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "question_type": {
+      "type": "string"
+    },
+    "max_points": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "practice_pass_points": {
+      "type": "number",
+      "minimum": 0
+    },
+    "question_text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "official_grading_text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "grading": {
+      "type": "object",
+      "required": [
+        "mode",
+        "criteria",
+        "penalties",
+        "instruction"
+      ]
+    },
+    "exam_pass_group": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object"
+    },
+    "legal_state_notice": {
+      "type": "string"
+    }
+  }
+}
