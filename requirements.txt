@@ -1,0 +1,6 @@
+openai>=1.40,<3
+pydantic>=2.7,<3
+rich>=13.7,<15
+ipywidgets>=8.1,<9
+jsonschema>=4.22,<5
+pytest>=8.2,<10
