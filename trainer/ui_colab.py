@@ -59,39 +59,96 @@ class TrainerUI:
         self.export_json = widgets.Button(description="Lataa historia JSON")
         self.export_csv = widgets.Button(description="Lataa historia CSV")
         self.question_out = widgets.Output(); self.result_out = widgets.Output(); self.official_out = widgets.Output()
-        self.part.observe(self._filters_changed, names="value"); self.year.observe(self._filters_changed, names="value")
+        self._updating_filters = False
+        self.part.observe(self._part_changed, names="value"); self.year.observe(self._year_changed, names="value")
         self.category.observe(self._refresh_questions, names="value"); self.question.observe(self._select, names="value")
         self.random.on_click(self._choose_random); self.next.on_click(self._choose_random)
         self.submit.on_click(self._grade); self.retry.on_click(self._retry); self.reveal.on_click(self._reveal)
         self.export_json.on_click(lambda _: self._download("harjoitteluhistoria.json", self.history.to_json()))
         self.export_csv.on_click(lambda _: self._download("harjoitteluhistoria.csv", self.history.to_csv()))
-        self._refresh_filters()
+        self._part_changed()
 
     def _matching(self):
         return filter_items(self.items, exam_part=self.part.value, year=self.year.value, category=self.category.value)
-    def _refresh_filters(self):
-        matching = filter_items(self.items, exam_part=self.part.value)
-        years = sorted({i.year for i in matching}, reverse=True); self.year.options = [(str(y), y) for y in years]
-        self._filters_changed()
-    def _filters_changed(self, change=None):
+    def _part_changed(self, change=None):
+        """Rebuild every dependent filter without exposing an invalid interim state."""
+        if self._updating_filters:
+            return
+        self._updating_filters = True
+        try:
+            previous_year = self.year.value
+            matching = filter_items(self.items, exam_part=self.part.value)
+            years = sorted({i.year for i in matching}, reverse=True)
+            self.year.options = [(str(year), year) for year in years]
+            self.year.value = previous_year if previous_year in years else (years[0] if years else None)
+            self._rebuild_categories()
+        finally:
+            self._updating_filters = False
+
+    def _year_changed(self, change=None):
+        if self._updating_filters:
+            return
+        self._updating_filters = True
+        try:
+            self._rebuild_categories()
+        finally:
+            self._updating_filters = False
+
+    def _rebuild_categories(self):
         matching = filter_items(self.items, exam_part=self.part.value, year=self.year.value)
-        categories = sorted({i.category for i in matching}); self.category.options = [(c, c) for c in categories]
+        categories = sorted({i.category for i in matching})
+        previous_category = self.category.value
+        self.category.options = [(category, category) for category in categories]
+        self.category.value = (previous_category if previous_category in categories
+                               else (categories[0] if categories else None))
         self._refresh_questions()
+
     def _refresh_questions(self, change=None):
-        matches = self._matching(); self.question.options = [(f"{i.question_number}: {i.title}", i.id) for i in matches]
-        if matches: self._set_item(matches[0])
+        if self._updating_filters and change is not None:
+            return
+        matches = self._matching()
+        previous_question = self.question.value
+        self.question.options = [(f"{i.question_number}: {i.title}", i.id) for i in matches]
+        if not matches:
+            self._show_no_questions()
+            return
+        selected_id = previous_question if any(i.id == previous_question for i in matches) else matches[0].id
+        self.question.value = selected_id
+        selected = next(item for item in matches if item.id == selected_id)
+        if self.current is None or self.current.id != selected_id:
+            self._set_item(selected)
+
     def _select(self, change):
-        if change.get("new"):
+        if not self._updating_filters and change.get("new"):
             self._set_item(next(i for i in self.items if i.id == change["new"]))
     def _set_item(self, item: Item):
         self.current = item; self.answer.value = ""; self.retry.disabled = True; self.reveal.disabled = True
+        self.submit.disabled = False; self.random.disabled = False; self.next.disabled = False
         with self.question_out: clear_output(); display(Markdown(question_markdown(item)))
         with self.result_out: clear_output()
         with self.official_out: clear_output()
+    def _show_no_questions(self):
+        self.current = None; self.answer.value = ""
+        self.submit.disabled = True; self.random.disabled = True; self.next.disabled = True
+        self.retry.disabled = True; self.reveal.disabled = True
+        with self.question_out:
+            clear_output(); display(Markdown("**Valituilla suodattimilla ei löytynyt tehtäviä.**"))
+        with self.result_out: clear_output()
+        with self.official_out: clear_output()
+
     def _choose_random(self, _):
-        item = random_item(self._matching()); self.question.value = item.id; self._set_item(item)
+        matches = self._matching()
+        if not matches:
+            self._show_no_questions()
+            return
+        item = random_item(matches)
+        self.question.value = item.id
+        if self.current is None or self.current.id != item.id:
+            self._set_item(item)
     def _grade(self, _):
-        assert self.current
+        if self.current is None:
+            self._show_no_questions()
+            return
         with self.result_out:
             clear_output(); print("Arvioidaan…")
             try: result = grade_answer(self.current, self.answer.value)

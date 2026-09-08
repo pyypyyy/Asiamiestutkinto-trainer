@@ -48,9 +48,12 @@ CLI ja Colab käyttävät samaa `trainer`-paketin datalatausta, validointia ja a
 
 ## Aineiston validointi ja testit
 
+Samat tarkistukset suoritetaan automaattisesti GitHub Actionsissa jokaiselle pull requestille ja `main`-haaraan vietävälle muutokselle. Paikallisesti ne voi suorittaa näin:
+
 ```bash
 python exam_data/scripts/validate_data.py
 pytest
+python -m compileall trainer app.py
 ```
 
 ## Uuden koekysymyksen lisääminen
