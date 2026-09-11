@@ -1,0 +1,124 @@
+{
+  "package_version": "1.0.0",
+  "target_repository": "pyypyyy/Asiamiestutkinto-trainer",
+  "purpose": "Ingest the missing open-response patent examination sections from 2024 and 2025.",
+  "expected_new_gradable_items": 6,
+  "expected_total_gradable_items_after_integration": 41,
+  "sources": [
+    {
+      "year": 2024,
+      "exam_part": "patent",
+      "official_pdf_url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/khddqj9pn/Pat2024_mallivastaukset.pdf",
+      "document_name": "Pat2024_mallivastaukset.pdf",
+      "pdf_pages": 34,
+      "items": [
+        {
+          "id": "patent-2024-section-1",
+          "question_number": "Section 1",
+          "title": "Vaatimusten laatiminen – kurpitsamehun ja -öljyn puristaminen",
+          "category": "claims_drafting",
+          "question_type": "open_response",
+          "max_points": 50,
+          "practice_pass_points": 25,
+          "grading_mode": "official_text_with_explicit_points",
+          "question_pdf_pages_zero_based": [0, 1],
+          "grading_pdf_pages_zero_based": [2, 3, 4, 5, 6],
+          "visual_review_required": true,
+          "notes": "Official scoring expressly treats device and method protection as commercially important; each side carries 25 points. Preserve the official detailed point table/text rather than synthesizing a new rubric."
+        },
+        {
+          "id": "patent-2024-section-2",
+          "question_number": "Section 2",
+          "title": "Keksinnöllisyyden argumentointi – FI20248678",
+          "category": "office_action_response",
+          "question_type": "open_response",
+          "max_points": 50,
+          "practice_pass_points": 25,
+          "grading_mode": "official_text_with_explicit_points",
+          "question_pdf_pages_zero_based": [7, 8, 9, 10, 11, 12, 13, 14, 15],
+          "grading_pdf_pages_zero_based": [16, 17, 18, 19],
+          "visual_review_required": true,
+          "notes": "The official material gives explicit points and deductions in the examiner text. Preserve them exactly; do not invent an equal-weight rubric."
+        },
+        {
+          "id": "patent-2024-section-3",
+          "question_number": "Section 3",
+          "title": "Strategia – Re-Shaft Oy",
+          "category": "strategy",
+          "question_type": "open_response",
+          "max_points": 50,
+          "practice_pass_points": 25,
+          "grading_mode": "official_text_with_explicit_points",
+          "question_pdf_pages_zero_based": [20, 21, 22],
+          "grading_pdf_pages_zero_based": [23, 24, 25, 26, 27, 28, 29],
+          "visual_review_required": false,
+          "official_top_level_scoring": {
+            "invention_1_total": 25,
+            "invention_2_total": 25
+          },
+          "notes": "Official section 4 / multiple-choice material begins after this grading block and is outside this package."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "exam_part": "patent",
+      "official_pdf_url": "https://www.prh.fi/material/sites/prh/attachments/tietoaprhsta/teollisoikeusasiamieslautakunta/asiamiestutkinto/2n5v1g4lz/Pat2025_mallivastaukset.pdf",
+      "document_name": "Pat2025_mallivastaukset.pdf",
+      "pdf_pages": 30,
+      "items": [
+        {
+          "id": "patent-2025-section-1",
+          "question_number": "Section 1",
+          "title": "Vaatimusten laatiminen – taulun kehystäminen",
+          "category": "claims_drafting",
+          "question_type": "open_response",
+          "max_points": 50,
+          "practice_pass_points": 25,
+          "grading_mode": "official_text_with_explicit_points",
+          "question_pdf_pages_zero_based": [0, 1, 2],
+          "grading_pdf_pages_zero_based": [3, 4, 5, 6, 7],
+          "visual_review_required": true,
+          "official_top_level_scoring": {
+            "independent_device_claim": 20,
+            "independent_method_claim": 20,
+            "dependent_claims": 10
+          },
+          "notes": "The official material also specifies explicit deductions for major claim-drafting errors. Preserve these as official penalties in the source text/data where supported."
+        },
+        {
+          "id": "patent-2025-section-2",
+          "question_number": "Section 2",
+          "title": "Keksinnöllisyyden argumentointi – FI20258479 tuuliturbiini",
+          "category": "office_action_response",
+          "question_type": "open_response",
+          "max_points": 50,
+          "practice_pass_points": 25,
+          "grading_mode": "official_text_with_explicit_points",
+          "question_pdf_pages_zero_based": [7, 8, 9, 10, 11, 12, 13],
+          "grading_pdf_pages_zero_based": [14, 15, 16],
+          "visual_review_required": true,
+          "notes": "The official examiner material contains explicit point values and deductions. It also requires treating two distinct embodiments in D1 separately."
+        },
+        {
+          "id": "patent-2025-section-3",
+          "question_number": "Section 3",
+          "title": "Strategia – Laude and Löyly Technologies Oy",
+          "category": "strategy",
+          "question_type": "open_response",
+          "max_points": 50,
+          "practice_pass_points": 25,
+          "grading_mode": "official_text_with_explicit_points",
+          "question_pdf_pages_zero_based": [18, 19],
+          "grading_pdf_pages_zero_based": [19, 20, 21, 22, 23, 24, 25],
+          "visual_review_required": false,
+          "official_top_level_scoring": {
+            "PHST_total": 25,
+            "PHST_plus_B_total": 25
+          },
+          "notes": "Section 4 starts on PDF page index 26 and is multiple choice, outside this package."
+        }
+      ]
+    }
+  ]
+}
