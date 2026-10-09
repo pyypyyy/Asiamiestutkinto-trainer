@@ -93,7 +93,7 @@ def test_piano_response_earns_nonzero_credit_for_individually_correct_features(i
     assert len(result.criteria_results) == 13
     import json
     payload = build_user_payload(item, PIANO_CLAIMS)
-    json_part = payload.split("ARVIOITAVA AINEISTO JSON ALKAA\\n", 1)[1].split("\\nARVIOITAVA AINEISTO JSON PÄÄTTYY", 1)[0]
+    json_part = payload.split("ARVIOITAVA AINEISTO JSON ALKAA", 1)[1].split("ARVIOITAVA AINEISTO JSON PÄÄTTYY", 1)[0].strip()
     assert json.loads(json_part)["official_grading_text"] == item.official_grading_text
 
 
