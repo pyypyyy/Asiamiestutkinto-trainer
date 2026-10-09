@@ -37,7 +37,7 @@ def build_user_payload(item: Item, answer: str) -> str:
         "user_answer": answer,
     }
     mode_note = {
-        "explicit_structured": "Anna tulos jokaiselle viralliselle kriteerille; summan tulee vastata loppupisteitä viralliset vähennykset huomioiden.",
+        "explicit_structured": "Anna tulos jokaiselle viralliselle kriteerille erikseen; summan tulee vastata loppupisteitä viralliset vähennykset huomioiden. Älä nollaa koko suoritusta yhden merkittävän virheen takia. Oikeasta piirteestä ansaittu osapiste on annettava myös muuten puutteellisessa vastauksessa. Älä vähennä samasta puutteesta kahdesti.",
         "official_text_with_explicit_points": "Seuraa official_grading_text-kentän nimenomaisia pistearvoja, mutta palauta criteria_results tyhjänä. Älä muodosta omaa pisteytystaulukkoa äläkä keksi kriteeritunnuksia.",
         "official_text_holistic": "Arvioi kokonaisuutena. Älä palauta criteria_results-kenttään keinotekoisia pistekriteerejä.",
     }[item.grading["mode"]]
@@ -81,9 +81,25 @@ def validate_grade(item: Item, raw: dict[str, Any]) -> Assessment:
     mode = item.grading["mode"]
     criteria = grade.criteria_results or []
     official = {criterion["id"]: criterion for criterion in item.grading["criteria"]}
-    official_penalties = {p.get("id") for p in item.grading["penalties"]}
-    if any(p.penalty_id not in official_penalties for p in grade.penalties_applied):
-        raise ValueError("Arvio sisältää muun kuin virallisen vähennyksen")
+    official_penalties = {p["id"]: p for p in item.grading["penalties"]}
+    applied_ids = [p.penalty_id for p in grade.penalties_applied]
+    if len(applied_ids) != len(set(applied_ids)):
+        raise ValueError("Sama vähennystunnus esiintyy useammin kuin kerran")
+    for penalty in grade.penalties_applied:
+        rule = official_penalties.get(penalty.penalty_id)
+        if rule is None:
+            raise ValueError("Arvio sisältää muun kuin virallisen vähennyksen")
+        amount = float(penalty.points_deducted)
+        if not math.isfinite(amount):
+            raise ValueError("Vähennyksen tulee olla äärellinen luku")
+        unit = rule.get("unit_points")
+        if unit is not None:
+            unit = float(unit)
+            repeatable = bool(rule.get("repeatable", False))
+            if (not math.isfinite(unit) or unit <= 0 or amount <= 0
+                    or (repeatable and not math.isclose(amount / unit, round(amount / unit)))
+                    or (not repeatable and not math.isclose(amount, unit))):
+                raise ValueError("Virallisen vähennyksen pistemäärä tai kerroin on virheellinen")
     if mode == "explicit_structured":
         ids = [result.criterion_id for result in criteria]
         unknown = set(ids) - set(official)
