@@ -91,7 +91,10 @@ def test_piano_response_earns_nonzero_credit_for_individually_correct_features(i
     assert result.final_points == 19
     assert result.passed is False
     assert len(result.criteria_results) == 13
-    assert item.official_grading_text in build_user_payload(item, PIANO_CLAIMS)
+    import json
+    payload = build_user_payload(item, PIANO_CLAIMS)
+    json_part = payload.split("ARVIOITAVA AINEISTO JSON ALKAA\\n", 1)[1].split("\\nARVIOITAVA AINEISTO JSON PÄÄTTYY", 1)[0]
+    assert json.loads(json_part)["official_grading_text"] == item.official_grading_text
 
 
 def test_structured_final_zero_rejected_if_components_earn_points(items):
