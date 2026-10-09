@@ -10,7 +10,7 @@
     "question_type": "open_response",
     "max_points": 50,
     "max_points_basis": "explicit",
-    "practice_pass_points": 25.0,
+    "practice_pass_points": 25,
     "practice_pass_rule": "At least 50% of this practice item.",
     "exam_pass_group": {
       "id": "patent-2021-section-1",
@@ -24,10 +24,160 @@
     "question_text": "Osio 1. Vaatimusten laatiminen (enintään 50 pistettä, vastaustila enintään 2 sivua)\n\nLUOTTAMUKSELLINEN\n\nKeksintö: Kotelorakenteiden ulkopuolelle kiinnityksen mahdollistava pultti\n\nNormaalistihan kappaleiden kiinnittäminen toisiinsa pulttikiinnityksellä ei ole vaikeaa, ja\ntämä liitäntätapa on tunnettu kymmeniä ellei satoja vuosia. Kuten kuvista 1a…1c näkee,\nkiinnitettäviin kappaleisiin (kuvissa: A ja B) tehdään reikä, työnnetään pultti näistä rei’istä\nläpi ja kiristetään liitos pultin kierreosaan laitettavalla mutterilla.\n\nTämä liitostapa ei kuitenkaan onnistu, mikäli toinen kiinnitettävistä kappaleista on\nkotelomainen (kuten kappale C kuvassa 2), koska pulttia ei sen runko-osaa leveämmän\nkannan vuoksi saa työnnetyksi kotelon sisälle.\n\nOlemme keksineet ratkaisun tällaiseen kiinnitysongelmaan kuvan 3 mukaisella, ns.\n”sokealla” pultilla. ”Sokea” viittaa siihen, että pultin rungon toisessa, ei-kierteisen osan\npäässä ei tavallisesta poiketen ole lainkaan kantaa.\n\nKuvassa 4 käy tarkemmin ilmi keksimämme sokean pultin rakenne. Runko-osa 1 koostuu\nkierteisestä osasta 1b ja ei-kierteisestä osasta 1a. Kierteiseen osaan 1b voidaan laittaa\ntavalliseen tapaan mutteri 2. Kotelorakenteen sisäisen kiinnityksen mahdollistaa runko-osan\n1 ei-kierteiseen osaan 1a tehty ja sen läpi ulottuva ontelo 8, jossa on epäkeskopaino 3\nsaranatapilla 4 nivelöitynä. Epäkeskopaino 3 siis pääsee kiertymään saranatapin 4 ympärillä\nniin, että se voi olla pujotusasennossa kokonaan runko-osan 1 sisällä ontelossa 8 tai\nkiinnitysasennossa osittain runko-osan 1 ulkopuolella, kuten kuvassa 4.\n\nTällä sokealla pultilla kappaleen kiinnitys kotelorakenteeseen on havainnollistettu kuvissa\n5a…5e, joissa kappale B kiinnitetään kotelorakenteeseen A. Ensin (kuva 5a) käyttäjä kääntää\nepäkeskopainon ontelon sisään eli pujotusasentoon, jonka jälkeen (kuva 5b) sokea pultti\npujotetaan A:n ja B:n reikien läpi. Kun epäkeskopaino pääsee reikien läpi kotelorakenteen A\nsisälle (kuva 5c), painovoima kääntää epäkeskopainon kiinnitysasentoon, jossa osa\nepäkeskopainosta sijaitsee ontelon ulkopuolella. Jotta painovoima aiheuttaisi tämän\nkääntymisen, on epäkeskopainon oltava massansa suhteen epäkeskeinen saranatapin\nsuhteen. Tämän jälkeen (kuva 5d) sokeaa pulttia vedetään ulospäin, kunnes epäkeskopaino\nottaa kiinni kotelorakenteen A sisäseinämään, minkä jälkeen mutteri kiristetään normaalisti.\nJotta epäkeskopaino ei tässä vaiheessa pääse kääntymään ontelon sisään, on\nepäkeskopainon oltava kiinnitysasennossa osittain runko-osan ulkopuolella runko-osan\nkummallakin puolella. Kuva 5e kuvaa kiristetyn liitoksen lopputilanteen.\n\nOlemme testeissämme havainneet, että sokea pultti toimii tällaisissa liitoksissa\nerinomaisesti. Kuitenkin joissakin harvoissa tapauksissa kotelorakenteen sisäpinta voi olla\nhyvin liukas, jolloin mutteria kiertäen kiristettäessä sokea pultti epäkeskopainoineen voi\nalkaa pyöriä, koska epäkeskopaino liukuu kotelorakenteen sisäpintaa pitkin. Tätä varten\nolemme harkinneet, että epäkeskopainoon voisi toteuttaa kitkaa lisäävän pinnan.\nToistaiseksi olemme ajatelleet tämän toteuttamista joko piikkinystyröin 5 (kuva 6a) tai\nkitkapinnoitteella 6 (kuva 6b), joka voisi olla esimerkiksi kumia.\n\nLisäksi olemme ajatelleet, että sokean pultin käyttömukavuutta voisi parantaa siten, että\nepäkeskopainon voisi lukita pujotusasentoon ontelon sisään siihen saakka, kunnes pultin\nepäkeskopainon sisältävä osuus on saatu pujotetuksi reikään. Tämän voisi toteuttaa\nsokkatapilla 7 (kuva 7), joka ulottuu pultin kierteisen osan päästä runko-osan sisällä jonkin\nverran epäkeskopainon sisään (ja toki tätä varten runko-osassa on oltava sokkatappia varten\nreikä ja epäkeskopainossa vastaava kolo). Tällöin epäkeskopainon voisi vapauttaa\nkääntymään poistamalla sokkatapin 7.\n\nKaikki keksimämme sokean pultin osat voivat olla samoja materiaaleja – käytännössä\nterässeoksia – kuin normaaleissa pulteissakin. Kuitenkin saranatappi on sokean pultin\nkriittisin osa kestävyyden suhteen, joten sen olisi hyvä olla erityisen kestävää terässeosta.\nTestiemme mukaan ASTM F568M -standardin lujuusluokan 9.8 tai korkeamman terässeos\non suotuisa valinta saranatapin materiaaliksi etenkin, jos mutteri halutaan kiristää hyvin\nkireälle.\n\nKaupallisessa mielessä aiomme käytännössä myydä näitä pultteja valmiina kiinnikkeinä,\njoissa on mutteri jo valmiiksi kiinni, koska näin pultti on käyttövalmis. Kuitenkin jotkut\nasiakkaat saattavat haluta ostaa pelkkiä pultteja ja käyttää omia muttereitaan, mikäli heillä\non esimerkiksi erityisiä materiaali- tai tyyppivaatimuksia mutterille (esimerkiksi siipimutteri).\n\nPyytäisin laatimaan yllä olevan kuvauksen perusteella patenttivaatimukset\npatenttihakemukseen, jolla saamme keksinnöllemme mahdollisimman laajan suojan.\n\nYstävällisin terveisin,\n\nPekka Kierteilä\nHervannan Kotelokiinnitys Oy\n\n---\n\nKirjoita mielestäsi asiakkaan keksinnölle parhaan suojan antava yhtenäinen, Suomessa\nhyväksyttävissä oleva vaatimusasetelma perustuen vain tässä tehtävänannossa annettuun\ntietoon. Asiakas ei halua maksaa hakemusmaksun lisäksi lisämaksuja patenttivaatimuksista.\n        A       B\n\nKuva 1a: tekniikan taso\n\n         A      B                       C          B\n\nKuva 1b: tekniikan taso   Kuva 2: tekniikan taso\n\n            A       B\n\nKuva 1c: tekniikan taso\n             1a                1b\n                                             2\n\n4\n\n    3        8\n\n                 Kuva 3\n\n                                         2\n        1a                          1b\n             4\n\n              8\n    3\n\n                           1\n                  Kuva 4\n   A B       A B\n\nKuva 5a   Kuva 5b\n\n   A B       A B\n\nKuva 5c   Kuva 5d\n\n  A B\n\nKuva 5e\nKuva 6a\n\n          3\n                  5\n\nKuva 6b\n\n          3       6\n\nKuva 7\n\n                          7\n              3       7\nPatenttiasiamieskoe 2021",
     "official_grading_text": "Osio 1. Patenttivaatimusasetelma (enintään 50 pistettä), tarkastajien kommentit\n\nYleisesti ottaen vaatimusasetelman laadinta oli varsin hyvin osattu sekä itsenäisen että\nepäitsenäisten    vaatimusten   osalta.   Pistemenetykset     kohdistuvatkin   valtaosin\nnimenomaisempiin seikkoihin vaatimusten piirteissä ja muotoiluissa, eivätkä niinkään\nvaatimusasetelman lähtökohtaiseen rakenteeseen.\n\nArviointikriteerit\nTäysien pisteiden (50) saamiseksi kokelaan tuli:\n   -   Laatia itsenäinen patenttivaatimus (tuotevaatimus), jossa on keksinnön (sen aiotun\n       toiminnan ja toimivuuden) kannalta kaikki välttämättömät piirteet eikä tarpeettomia\n       suoja-alaa rajoittavia piirteitä. Itsenäisen patenttivaatimuksen tuli olla tehtävänannon\n       tietojen valossa uusi ja keksinnöllinen sekä selkeä (ei epäselviä määritteitä).\n       Itsenäisen patenttivaatimuksen maksimipistemäärä oli 25.\n   -   Laatia      joukko    itsenäiselle     patenttivaatimukselle   alisteisia    epäitsenäisiä\n       patenttivaatimuksia, joissa määritellään ne piirteet, jotka tehtävänannon mukaisesti\n       ovat keksinnölle edullisia mutta ei sen (aiotun toiminnan ja toimivuuden) kannalta\n       olennaisia. Epäitsenäisten vaatimusten tuli olla muihin vaatimuksiin oikein viittaavia\n       sekä toki uusia, keksinnöllisiä ja selkeitä. Epäitsenäisten patenttivaatimusten\n       maksimipistemäärä oli 20.\n   -   Laatia epäitsenäinen patenttivaatimus, joka viittaa itsenäiseen tuotevaatimukseen ja\n       kohdistuu kiinnikkeeseen, joka käsittää em. itsenäisen tuotevaatimuksen mukaisen\n       pultin ja lisäksi mutterin. Tämän patenttivaatimuksen maksimipistemäärä oli 5.\n\nMenetelmävaatimusta – tuotteen käyttömenetelmää (kiinnitysmenetelmä keksintöä käyttäen)\ntai tuotteen valmistusmenetelmää – ei tänä vuonna vaadittu. Valmistusmenetelmän osalta\nasiakkaan kuvaus tehtävänannossa ei tarjonnut kylliksi teknisiä tietoja täsmällisen\nvalmistusmenetelmän päättelemiseksi (vaikkakin valmistusmenetelmää koskeva vaatimus\nolisi ollut mahdollista laatia geneerisin määrittein ”muodostetaan”, ”sovitetaan” jne.).\nTuotteen käyttömenetelmää koskevasta vaatimuksesta puolestaan herää epäily siitä, olisiko\nse edes asiakkaan intresseissä, koska tuotteen käyttöä koskeva kielto-oikeus kohdistuisi\nheidän asiakkaisiinsa, mikä puolestaan saattaisi vaikuttaa negatiivisesti tuotteiden menekkiin\n(vaikkakin patenttilain 3§:n perusteella kielto-oikeus ei lopulta koskisi yritykseltä hankittujen\npulttien hyväksikäyttöä). Jaoston mielestä tuotteen käyttömenetelmään kohdistuva vaatimus\nei kuitenkaan olisi tuonut asiakkaalle lisäarvoa tehtävänannon asiakkaan kuvauksen valossa.\nMahdollista kokelaan laatimaa menetelmävaatimusta ei näin muodoin ole huomioitu\npisteytyksessä suuntaan tahi toiseen. Kuitenkin eräiden vastausten valossa huomautamme,\nettä menetelmävaatimuksessa on oltava menetelmävaiheita (esim. menetelmä, jossa ainoa\nvarsinainen piirre on, että vaatimuksen 1 mukainen pultti valmistetaan teräksestä, ei täytä\nmenetelmävaatimuksen piirteitä) ja että menetelmävaatimusten on oltava piirteiltään\nyhdenmukaisia keksinnön teknisten piirteiden kanssa.\nItsenäinen patenttivaatimus (tuotevaatimus)\n\nKeksinnön (sen aiotun toiminnan ja toimivuuden kannalta) välttämättömät piirteet ovat:\n   -   Runko-osa, jossa on kierteinen ja ei-kierteinen osa (tunnusomaista kaikille pulteille,\n       myös keksinnön mukaiselle pultille; kierteinen osa on edellytys mutterin käytölle): 4\n       pistettä\n   -   Ei-kierteisessä osassa on sen läpi ulottuva ontelo (ontelon on oltava runko-osan siinä\n       päässä, joka työnnetään kiinnitettävän kotelorakenteen sisäpuolelle; ontelon on\n       ulotuttava runko-osan läpi, jotta epäkeskopaino pääsee kiinnitysasennossa sen\n       kummallekin puolelle): 4 pistettä\n   -   Ontelon sisällä on saranatappi (jotta kääntyvä epäkeskopaino voidaan kiinnittää\n       onteloon): 3 pistettä\n   -   Epäkeskopaino on ontelon sisällä ja saranatapilla nivelöity (jotta epäkeskopaino\n       kääntyy pujotusasennossa ontelon sisään ja kiinnitysasennossa runko-osan\n       kummallekin puolelle): 4 pistettä\n   -   Epäkeskopaino on massakeskipisteeltään epäkeskeinen saranatapin suhteen (jotta\n       kääntyy painovoiman vaikutuksesta saranatapin ympäri, kun epäkeskopaino on\n       kotelorakenteen sisäpuolella): 4 pistettä\n   -   Epäkeskopaino on pujotusasennossa runko-osan sisällä ontelossa ja\n       kiinnitysasennossa osittain runko-osan ulkopuolella sen kummallakin puolella (ei\n       teknisesti voi koskaan olla kokonaan runko-osan ulkopuolella; aiottu pujottaminen\n       edellyttää sijaintia kokonaan ontelossa eli runko-osan sisäpuolella; aiottu\n       kiinnittäminen edellyttää sijaintia runko-osan kummallakin puolella, jotta\n       epäkeskopaino pysyy kiristämisen aikana paikallaan; vaatimuksessa on määriteltävä\n       kumpikin asento, pujotusasento ja kiinnitysasento, eli vain jompikumpi ”tai” -sanalla\n       erotettuna ei riitä, koska tuolloin määriteltäisiin, että jommankumman asennon\n       toteutuminen riittäisi): 6 pistettä\n\nItsenäisessä patenttivaatimuksessa yleisimpiä virheitä olivat:\n   -   Ylimääräinen, suojapiiriä rajoittava piirre:\n           o Pultti on valmistettu terässeoksesta (jolloin esim. muovista, alumiinista, tai\n              messingistä valmistettu keksinnön mukainen pultti ei loukkaisi): -2 pistettä\n           o Saranatapin materiaali määritelty (jolloin muusta materiaalista kuten\n              vähemmän kovasta teräksestä valmistetulla saranatapilla varustettu keksinnön\n              mukainen pultti ei loukkaisi): -5 pistettä\n           o Epäkeskopainossa on kitkapinnoite (jolloin asiakkaan kertoma keksinnön\n              mukainen perustyyppinen pultti ei loukkaisi): -8 pistettä\n           o Sokkatappi        (jolloin   asiakkaan      kertoma       keksinnön         mukainen,\n              epäkeskopainoltaan kitkapinnoitteinenkaan pultti ei loukkaisi): -10 pistettä\n           o Mutteri (jolloin mikään keksinnön mukainen pultti ei loukkaisi, kunhan siinä ei\n              ole mutteria): -15 pistettä\n   -   Ontelo on epämääräisessä paikassa tai sen paikkaa ei ole määritelty: -2 pistettä\n   -   Pujotus- ja kiinnitysasennoista ei ole mitään mainintaa: -6 pistettä\n   -   Pujotus- ja kiinnitysasennot on määritelty vaihtoehtoisiksi piirteiksi (”tai”): -2 pistettä\n           o Asiakkaan tekstissä tehtävänannossa nämä piirteet on kuvattu ”tai” -sanalla\n              yhdistettynä, mutta kokelaalta odotettiin itsenäistä ajattelua keksinnön\n              toimivuuden suhteen vaatimusta laatiessa, eikä suoraa asiakkaan tekstin\n              kopiointia.\n   -   Epäkeskopainoa ei ole kiinnitysasennossa määritelty ulottuvaksi runko-osan\n       kummallekin puolelle (jos ulottuisi vain toiselle puolelle, kiristettäessä kääntyisi takaisin\n       ontelon sisään): -3 pistettä\n\nLisäksi:\n   -   2 lisäpistettä on annettu, mikäli itsenäisessä vaatimuksessa on osattu määritellä se,\n       että pultissa ei ole kantaa jollakin sopivalla positiivisella määritteellä (esim. runko-osa\n       on tankomainen tai runko-osa on läpimitaltaan oleellisesti vakio). Tämän määritteen\n       puutteesta ei kuitenkaan ole vähennetty pisteitä, eikä sitä vaadittu täysien (25)\n       pisteiden saamiseksi.\n   -   Virheellisestä vaatimuksen jaottelusta ”tunnettu siitä, että” suhteen on vähennetty 1\n       piste.\n\nEpäitsenäiset vaatimukset\n\nEpäitsenäisissä vaatimuksissa odotettiin määriteltävän seuraavat keksinnön lisäpiirteet\n   -   Epäkeskopainossa on kitkaa lisäävä pinta\n            o Yleisesti ottaen (ylipäätään): 1 piste\n            o Niillä pinnoilla, jotka ovat kiinnitysasennossa runko-osan kierteistä osaa\n                kohden, tai vastaava määrittely (kitkapinnoitteen toimivuus aiotusti edellyttää\n                tätä sijaintia; mikä hyvänsä sijainti ei riitä): 4 pistettä\n                     4 pistettä on annettu myös, mikäli on määritelty, että epäkeskopainon\n                         kitkaa lisäävä pinta on epäkeskopainon pinnalla kauttaaltaan, koska\n                         tällöin keksintö toimii myös aiotusti\n            o Kitkaa lisäävä pinta käsittää piikkinystyröitä: 2 pistettä\n            o Kitkaa lisäävä pinta on kitkapinnoite: 2 pistettä\n            o Kitkapinnoite on kumia: 1 piste\n   -   Pultti käsittää irrotettavan sokan, joka ulottuu kierteisen osan päädystä runko-osassa\n       olevan reiän sisällä epäkeskopainoon ja lukitsee epäkeskopainon pujotusasentoon, tai\n       vastaava määrittely: 5 pistettä\n            o 5 pistettä on annettu sekä siinä tapauksessa, että sokka ulottuu\n                epäkeskopainon sisään, että siinä tapauksessa, että sokka ulottuu\n                epäkeskopainoon (sen pintaan), koska keksintö toimii kummassakin\n                tapauksessa aiotusti.\n   -   Saranatappi on terässeosta, jonka lujuus on ASTM F568M -standardin mukaisesti 9.8\n       tai korkeampi: 5 pistettä\n   -   Kiinnike, joka käsittää jonkin aiemman vaatimuksen mukaisen pultin sekä mutterin: 5\n       pistettä\n\nEpäitsenäisissä patenttivaatimuksissa yleisimmät virheet olivat:\n   -   Kitkaa lisäävä pinta on määritelty olevaksi ”jossakin” epäkeskopainon pinnalla\n       (epämääräinen; keksintö ei toimi aiotusti, ellei ole oikeassa paikassa): - 4 pistettä\n     -   Sokkaa ei ole määritetty yhteydessä pujotusasentoon: -2 pistettä\n\nMuita arvosteluperusteita\n\nEdellisten lisäksi yleisimpiä virheitä olivat:\n     -   Vaatimuksessa on epäselvä piirre/määrite: -1 piste\n     -   Vaatimuksessa on ylimääräinen viittaussuhde aiempaan/aiempiin vaatimuksiin: -1\n         piste\n     -   Vaatimuksesta puuttuu viittaussuhde aiempaan/aiempiin vaatimuksiin: -2 pistettä\n     -   Päävaatimuksen välttämätön piirre on alivaatimuksessa: tästä piirteestä ei annettu\n         lainkaan pisteitä\n             o Tällaisen virheen voi toki korjata virastoprosessissa, mutta tehtävänannossa\n                pyydettiin sellaisenaan hyväksyttävissä olevaa vaatimusasetelmaa. Puuttuva\n                välttämätön piirre siis katsottiin virheeksi, sillä kokelaan odotetaan valitsevan\n                keksinnön välttämättömät piirteet eikä jättävän tätä valintaa jaoston tehtäväksi.\n\nEsimerkkivastaus vaatimusasetelmasta\n\n(Vaatimusasetelmassa piirteet on esitystavan havainnollisuuden vuoksi jaoteltu piirteittäin\nlistamaisesti.)\n\n1.       Pultti, joka käsittää runko-osan 1, joka runko-osa 1 käsittää\n     -   ei-kierteisen osan 1a sekä\n     -   kierteisen osan 1b, joka on sovitettu vastaanottamaan mutteri 2,\n     tunnettu siitä että\n     -   (runko-osa 1 on läpimitaltaan oleellisesti vakio)\n     -   rungon 1 ei-kierteisessä osassa 1b on sen läpi poikkisuuntaisesti ulottuva ontelo 8,\n     -   ontelon 8 sisässä on saranatappi 4, ja\n     -   ontelon 8 sisään on sovitettu saranatapilla 4 nivelöity epäkeskopaino 3, joka\n             o on massakeskipisteeltään epäkeskeinen saranatapin 4 suhteen ja\n             o pääsee kiertymään saranatapin 4 ympärillä niin, että se voi olla\n                     pujotusasennossa kokonaan runko-osan 1 sisällä ontelossa 8 ja\n                     kiinnitysasennossa osittain runko-osan ulkopuolella 1 sen kummallakin\n                        puolella.\n\n2.       Patenttivaatimuksen 1 mukainen pultti, joka käsittää\n     -   kitkaa lisäävän pinnan 5, 6 epäkeskopainon 3 niillä pinnoilla, jotka epäkeskopainon 3\n         ollessa kiinnitysasennossa ovat runko-osan 1 kierteistä osaa 1b kohden.\n\n3.       Patenttivaatimuksen 2 mukainen pultti, jossa\n     -   kitkaa lisäävä pinta käsittää piikkinystyröitä 5.\n\n4.       Patenttivaatimuksen 2 mukainen pultti, jossa\n     -   kitkaa lisäävä pinta on kitkapinnoite 6.\n\n5.       Patenttivaatimuksen 4 mukainen pultti, jossa\n     -   kitkapinnoite 6 on kumia.\n\n6.       Jonkin edellisen patenttivaatimuksen mukainen pultti, joka käsittää\n     -   reiän, joka ulottuu runko-osan 1 kierteisen osan 1b puoleisesta päädystä runko-osan\n         1 läpi ainakin osittain epäkeskopainon 3 sisään epäkeskopainon 3 ollessa\n         pujotusasennossa sekä\n     -   irrotettavan sokan 7, joka sijaitsee mainitussa reiässä ja lukitsee epäkeskopainon 3\n         mainittuun pujotusasentoon.\n\n7.       Jonkin edellisen patenttivaatimuksen mukainen pultti, jossa\n     -   saranatappi 4 on terässeosta, jonka lujuusluokka on ASTM F568M -standardin\n         mukaisesti 9.8 tai korkeampi.\n\n8.       Kiinnike, joka käsittää\n     -   jonkin edellisen patenttivaatimuksen mukaisen pultin sekä\n     -   mutterin 2, joka on sovitettu kierteisen osan 1b kierteille.\nTEOLLISOIKEUSASIAMIES-                          Asiamiestutkinto 19.10.2021\n                                                                                          1 (6)\nLAUTAKUNTA                                      Patenttioikeus",
     "grading": {
-      "mode": "official_text_with_explicit_points",
-      "criteria": [],
-      "penalties": [],
-      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "independent-threaded-body",
+          "description": "Itsenäinen pulttivaatimus: runko-osa käsittää kierteisen ja ei-kierteisen osan.",
+          "max_points": 4
+        },
+        {
+          "id": "independent-through-cavity",
+          "description": "Itsenäinen pulttivaatimus: ei-kierteisen osan oikeassa päässä sen läpi ulottuva ontelo.",
+          "max_points": 4
+        },
+        {
+          "id": "independent-hinge-pin",
+          "description": "Itsenäinen pulttivaatimus: ontelossa on saranatappi.",
+          "max_points": 3
+        },
+        {
+          "id": "independent-pivoting-weight",
+          "description": "Itsenäinen pulttivaatimus: ontelossa oleva epäkeskopaino on saranatapilla nivelöity.",
+          "max_points": 4
+        },
+        {
+          "id": "independent-eccentric-centre",
+          "description": "Itsenäinen pulttivaatimus: epäkeskopainon massakeskipiste on epäkeskeinen saranatappiin nähden.",
+          "max_points": 4
+        },
+        {
+          "id": "independent-insertion-fastening-positions",
+          "description": "Itsenäinen pulttivaatimus: pujotusasennossa epäkeskopaino on ontelon sisällä ja kiinnitysasennossa ulottuu osittain rungon kummallekin puolelle.",
+          "max_points": 6
+        },
+        {
+          "id": "dependent-friction-surface",
+          "description": "Epäitsenäinen pulttivaatimus: kitkaa lisäävä pinta yleisesti.",
+          "max_points": 1
+        },
+        {
+          "id": "dependent-friction-position",
+          "description": "Epäitsenäinen pulttivaatimus: kitkaa lisäävä pinta oikeilla epäkeskopainon pinnoilla (kohti rungon kierteistä osaa kiinnitysasennossa) tai kauttaaltaan.",
+          "max_points": 4
+        },
+        {
+          "id": "dependent-friction-spikes",
+          "description": "Epäitsenäinen pulttivaatimus: kitkaa lisäävällä pinnalla piikkinystyrät.",
+          "max_points": 2
+        },
+        {
+          "id": "dependent-friction-coating",
+          "description": "Epäitsenäinen pulttivaatimus: kitkaa lisäävä pinta on kitkapinnoite.",
+          "max_points": 2
+        },
+        {
+          "id": "dependent-rubber",
+          "description": "Epäitsenäinen pulttivaatimus: kitkapinnoite on kumia.",
+          "max_points": 1
+        },
+        {
+          "id": "dependent-cotter-pin",
+          "description": "Epäitsenäinen pulttivaatimus: irrotettava sokka lukitsee epäkeskopainon pujotusasentoon rungossa olevan reiän kautta.",
+          "max_points": 5
+        },
+        {
+          "id": "dependent-steel-hinge",
+          "description": "Epäitsenäinen pulttivaatimus: saranatappi terässeosta, lujuusluokka ASTM F568M 9.8 tai korkeampi.",
+          "max_points": 5
+        },
+        {
+          "id": "dependent-fastener-nut",
+          "description": "Epäitsenäinen vaatimus kiinnikkeestä, joka käsittää edeltävän vaatimuksen pultin ja mutterin.",
+          "max_points": 5
+        }
+      ],
+      "penalties": [
+        {
+          "id": "main-steel-alloy",
+          "description": "Itsenäiseen pulttivaatimukseen lisätty runko-osan terässeosrajaus: -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "main-hinge-material",
+          "description": "Itsenäiseen pulttivaatimukseen lisätty saranatapin materiaalirajaus: -5 p.",
+          "unit_points": 5,
+          "repeatable": false
+        },
+        {
+          "id": "main-friction-coating",
+          "description": "Itsenäiseen pulttivaatimukseen nostettu kitkapinnoite: -8 p.",
+          "unit_points": 8,
+          "repeatable": false
+        },
+        {
+          "id": "main-cotter-pin",
+          "description": "Itsenäiseen pulttivaatimukseen nostettu sokka: -10 p.",
+          "unit_points": 10,
+          "repeatable": false
+        },
+        {
+          "id": "main-nut",
+          "description": "Itsenäiseen pulttivaatimukseen nostettu mutteri: -15 p.",
+          "unit_points": 15,
+          "repeatable": false
+        },
+        {
+          "id": "cavity-unspecified",
+          "description": "Ontelon paikka epämääräinen tai puuttuu: -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "position-alternatives",
+          "description": "Pujotus- ja kiinnitysasennot esitetty toistensa vaihtoehtoina (tai): -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "friction-unspecified-position",
+          "description": "Kitkaa lisäävän pinnan paikka epämääräinen: -4 p.",
+          "unit_points": 4,
+          "repeatable": false
+        },
+        {
+          "id": "cotter-position-omitted",
+          "description": "Sokan suhdetta pujotusasentoon ei määritelty: -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "incorrect-characterizing-phrase",
+          "description": "Itsenäisen vaatimuksen virheellinen tunnettu siitä, että -jaottelu: -1 p.",
+          "unit_points": 1,
+          "repeatable": false
+        },
+        {
+          "id": "ambiguous-claim-feature",
+          "description": "Epäselvä piirre tai määrite: -1 p / esiintymä.",
+          "unit_points": 1,
+          "repeatable": true
+        },
+        {
+          "id": "excess-reference",
+          "description": "Ylimääräinen viittaussuhde: -1 p / esiintymä.",
+          "unit_points": 1,
+          "repeatable": true
+        },
+        {
+          "id": "missing-reference",
+          "description": "Puuttuva viittaussuhde: -2 p / esiintymä.",
+          "unit_points": 2,
+          "repeatable": true
+        }
+      ],
+      "instruction": "Pisteytä virallisten vuonna 2021 annettujen yksittäisten piirteiden mukaan. Ensimmäisten kuuden kriteerin summa enintään 25 p (itsenäinen pulttivaatimus), seuraavien seitsemän enintään 20 p (pultin alivaatimukset), viimeinen enintään 5 p (pultti ja mutteri -kiinnike). Päävaatimuksen välttämättömiä piirteitä ei hyvitetä, jos ne ovat vain alivaatimuksissa. Huomioi virallisesta tekstistä tilanteet, joissa puuttuva piirre ja siitä annettu vähennys ovat sama puute: ÄLÄ vähennä samasta virheestä kahteen kertaan; vähennys koskee vain itsenäistä erillistä virhettä. Virallinen mahdollinen 2 lisäpisteen hyvitys kannattomuudesta (kannaton pultti) voidaan huomioida itsenäisen vaatimuksen enintään 25 pisteen kokonaisarviossa, mutta se ei saa nostaa pisteitä yli 25:n eikä luoda uutta keksittyä pistelajia. Myös muut alkuperäiset arvostelutekstin ohjeet, ehdot ja poikkeukset ovat voimassa. Erittäin puutteellisestakin vastauksesta anna ansaitut osapisteet."
     },
     "source": {
       "file": "Patenttikoe_2021.pdf",
@@ -55,7 +205,7 @@
     "question_type": "open_response",
     "max_points": 50,
     "max_points_basis": "explicit",
-    "practice_pass_points": 25.0,
+    "practice_pass_points": 25,
     "practice_pass_rule": "At least 50% of this practice item.",
     "exam_pass_group": {
       "id": "patent-2021-section-2",
@@ -100,7 +250,7 @@
     "question_type": "open_response",
     "max_points": 50,
     "max_points_basis": "explicit",
-    "practice_pass_points": 25.0,
+    "practice_pass_points": 25,
     "practice_pass_rule": "At least 50% of this practice item.",
     "exam_pass_group": {
       "id": "patent-2021-section-3",

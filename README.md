@@ -46,6 +46,21 @@ CLI ja Colab käyttävät samaa `trainer`-paketin datalatausta, validointia ja a
 - `exam_data/data/pending_sources.json`: keskeneräiset lähteet, ei harjoitustehtäviä
 - `exam_data/schema`, `exam_data/sources`: skeema ja säilytetty lähde/provenienssitieto
 
+## Patenttivaatimusten laadinnan viralliset osapisteet (2021–2023)
+
+Patenttiosan vuosien 2021, 2022 ja 2023 vaatimustenlaadintatehtävien viralliset piirrekohtaiset
+pistejaot on esitetty `explicit_structured`-kriteereinä. Kriteerit perustuvat alkuperäisiin
+tarkastajien raportteihin. Päävaatimusten virheet eivät saa automaattisesti nollata oikein
+pisteytettäviä alivaatimuksia; kukin virallinen osapiirre arvioidaan itsenäisesti.
+
+Virallisia vähennysperusteita sovelletaan vain todettuihin, erillisiin virheisiin.
+Pisteytys on edelleen kielimallin suorittamaa arviointia: Python tarkistaa
+kriteerien ja vähennysten tunnisteet, pistekatot sekä loppusumman mutta ei pysty
+takaamaan semanttisesti oikeaa osapisteytystä. Vuoden 2020 tehtävä jää toistaiseksi
+tekstipohjaiseen arvostelutilaan, koska sen 25/20/5-pistealueiden sisäinen arviointi
+sisältää ehdollista ja osin kokonaisarviointia vaativaa harkintaa. Vuosien 2024–2025
+patenttiaineistoa ei ole tässä haarassa ajonaikaisessa kysymyspankissa.
+
 ## Aineiston validointi ja testit
 
 Samat tarkistukset suoritetaan automaattisesti GitHub Actionsissa jokaiselle pull requestille ja `main`-haaraan vietävälle muutokselle. Paikallisesti ne voi suorittaa näin:

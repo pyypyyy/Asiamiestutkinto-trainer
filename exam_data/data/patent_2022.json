@@ -10,7 +10,7 @@
     "question_type": "open_response",
     "max_points": 50,
     "max_points_basis": "explicit",
-    "practice_pass_points": 25.0,
+    "practice_pass_points": 25,
     "practice_pass_rule": "At least 50% of this practice item.",
     "exam_pass_group": {
       "id": "patent-2022-section-1",
@@ -24,10 +24,125 @@
     "question_text": "Osio 1. Vaatimusten laatiminen (enintään 50 pistettä)\n\nLUOTTAMUKSELLINEN\n\nKeksintö: Pianon äänenvärin säätäminen\n\nAina pianon keksimisestä asti on ollut tarve säätää pianon äänenväriä esimerkiksi pianon\nsoittajan mieltymysten mukaan joko kirkkaammaksi tai pehmeämmäksi.\n\nKuviin 1 ja 2 viitaten, pianon äänihän syntyy, kun pianon vasara 1 pianon koskettimen\npainalluksen vaikutuksesta liikkuu lepoasennostaan (kuvan 2 oikeanpuoleinen asento) ja sen\nlyömäpinta 2 iskeytyy vasten pianon kieltä 20 (kuvan 2 vasemmanpuoleinen, pystyasento).\n\nKoska vasaran 1 runkoon 5 kiinnitetty pää 7 on huopaa, on jo 1700-luvulta saakka tunnettu,\nettä pianon äänen väriä voidaan muokata käsittelemällä vasaran 1 kärkialueen 3 ja aivan\nerityisesti sen lyömäpinnan 2 huovan ominaisuuksia. Yleisenä periaatteena tässä on, että\nvasaroiden huopaa tiivistämällä pianon ääni kirkastuu ja vastaavasti huopaa kuohkeuttamalla\npianon ääni pehmenee.\n\nNykyisin huovan tiivistämistä tehdään imeyttämällä kärkialueelle 3 tähän tarkoitukseen\nkehitettyä kemikaaliliuosta, esimerkiksi asetoni-muoviseosta. Paitsi että nämä kemikaalit\novat terveydelle haitallisia, kerran huopaan imeytettyä kemikaalia ei enää saada pois, eli\nkäsittely ei ole peruutettavissa.\n\nVastaavasti huopaa kuohkeutetaan joko hiomalla lyömäpinnalta 2 kovettunut pintakerros\npois tai painelemalla neulalla huopaan, erityisesti lyömäpinnalle 2 pieniä reikiä. Kumpikin\nnäistä menetelmistä edellyttää pianon vasarakoneiston irrottamista työskentelyn\nmahdollistamiseksi ja lisäksi itse käsittely vie tunteja, koska jokaista 88:aa yksittäistä vasaraa\non käsiteltävä useita minuutteja.\n\nKeksintö sai alkusysäyksen siitä, kun eräs pianoteknikkomme huomasi YouTubessa videon,\njossa pianon vasaroiden suuntausvirheitä korjattiin lämmittämällä kuumailmapuhaltimella\nvasararungon (kuvassa 1 viitenumero 5) ja vasaravarren (viitenumero 6) välistä liimausta sen\nväliaikaiseksi pehmentämiseksi vasararungon kääntämiseksi.\n\nLämmön käyttäminen kuitenkin jäi teknikkomme mieleen ja eräänä iltana paitaa silittäessään\nhän sai ajatuksen kokeilla jotakin samankaltaista käsittelyä pianon vasaroihin.\n\nYllätykseksemme tämä johti pianon äänenvärin säätämismenetelmään, joka on paitsi nopea\n(yhden vasaran käsittely vie vain noin 10 sekuntia, eikä koneistoa tarvitse irrottaa), niin\nkäyttökelpoinen sekä äänen kirkastamiseksi että pehmentämiseksi niin, että käsittelyä\nvoidaan toteuttaa kumpaan suuntaan tahansa. Pianon ääntä voidaan siis tällä menetelmällä\ntarvittaessa iteratiivisesti säätää vasarakohtaisesti edestakaisin kirkkaammaksi ja\npehmeämmäksi kunnes juuri oikea äänenväri on löydetty.\nErityisesti kuviin 3 ja 4 viitaten, menetelmämme perustuu pianon vasaroiden 1 huovan\nominaisuuksien muokkaamiseen lämmön avulla. Tarkemmin sanoen lämpöä kohdistetaan\nlyömäpinnalle 2 kuumennetulla työkalulla 10. Huovan ominaisuuksien muuttumiseksi\ntyökalun 10 kuumennetun osan 11 on oltava vähintään 80 celsiusasteen lämpötilassa. Tätä\nkorkeammat lämpötilat nopeuttavat käsittelyä, mutta vaikuttaa siltä, että huovan kuidut\nalkavat vahingoittua yli 220 asteen lämpötiloissa.\n\nKun pianon äänenväriä halutaan kirkastaa, työkalun 10 kuumennettu osa 11 asetetaan\nvälittömästi vasten lyömäpintaa 2. Riippuen kuumennetun osan 11 koosta ja muodosta,\ntyökalua 10 voi joutua liikuttelemaan lyömäpinnalla 2 sen koko alan käsittelemiseksi.\n\nKun taas pianon äänenväriä halutaan pehmentää, muistuttaa prosessi tavallaan\nhöyrysilitystä. Tällöin vasaran 1 kärkialueelle 3 saatetaan vettä, joka höyrystetään edellisessä\nkappaleessa kuvatulla tavalla vasaraa 1 kuumennetulla työkalulla 10 käsittelemällä. Vesi\nhöyrystyessään laajentuu hieman ja saa aikaan huovan kuohkeutumisen. Jotta käsittely olisi\nmahdollisimman hyvin peruutettavissa, eli ääni myöhemmin jälleen kirkastettavissa, on hyvä\nvälttää muiden aineiden kuin veden pääsyä huopaan, esimerkiksi käyttämällä tislattua vettä.\n\nToistaiseksi olemme keksineet kaksi tapaa saattaa vettä kärkialueelle 3. Ensinnäkin voidaan\nasettaa jokin vedellä kostutettu materiaalikerros 4 lyömäpinnan 2 ja työkalun 10\nkuumennetun osan 11 väliin. Tekstiilit ja varsinkin puuvillakangas toimivat tässä hyvin vettä\nimevinä materiaaleina. Toinen mahdollisuus on injektoida vesi – vaikkapa neulapäisellä\nruiskulla – kärkialueelle 3. Tällöinkin on kuitenkin välttämätöntä, että työkalun 10\nkuumennetun osan 11 ja lyömäpinnan 2 välissä on materiaalikerros 4, joka on huokoinen,\njotta huopa pääsee kuohkeutuessaan laajenemaan hieman ulospäin ja vesihöyry haihtumaan\nhuovasta.\n\nAivan äskettäin keksimme vielä tavan merkittävästi nopeuttaa lämpökäsittelyä siten, että\ntyökalun 10 kuumennettu osa 11 on muotoiltu lyömäpinnan 2 muotoa myötäileväksi, kuten\nkuvissa 3 ja 4 on esitetty. Tällöin riittää, että kuumennettu osa 11 vain asetetaan lyömäpintaa\n2 vasten, eikä sitä tarvitse liikuttaa koko lyömäpinnan 2 alan käsittelemiseksi.\n\nKeksintömme ei kuitenkaan välttämättä edellytä mitään erityisiä laitteita; vaikkapa\ntavanomaisella lämpötilasäädettävällä juotoskolvillakin pärjää.\n\nPyytäisin laatimaan yllä olevan kuvauksen perusteella patenttivaatimukset\npatenttihakemukseen, jolla saamme keksinnöllemme mahdollisimman laajan suojan.\n\nYstävällisin terveisin,\n\nSinikka Sointu\nPeltolammin Pianotekniikka Oy\n\n---\nKirjoita mielestäsi asiakkaan keksinnölle parhaan suojan antava yhtenäinen, Suomessa\nhyväksyttävissä oleva vaatimusasetelma perustuen vain tässä tehtävänannossa annettuun\ntietoon. Asiakas ei halua maksaa hakemusmaksun lisäksi lisämaksuja patenttivaatimuksista.\n    1\n\n                         5\n                                               2\n\n        7\n\n                             6\n\n2\n                                 20\n\n            3                                      1\n\n                Kuva 1                Kuva 2\n              10                 10\n\n11                 11\n\n                   4\n\n     Kuva 3             Kuva 4\nPatenttiasiamieskoe 2022",
     "official_grading_text": "Osio 1. Patenttivaatimusasetelma (enintään 50 pistettä), tarkastajien kommentit\n\nKeksinnön olennainen hyöty aiempaan nähden on se, että sen menetelmällä voidaan\ntoteuttaa pianon äänenvärin säätämistä peruutettavalla tavalla (kaksisuuntaisesti) – vieläpä\nniin, että vasarakoneistoa ei tarvitse irrottaa. Tämä perustuu siihen, että pianon vasaran\nlyömäpinnalle kohdistetaan lämpöä työkalun kuumennetulla osalla (päävaatimus). Se taas,\nkumpaan suuntaan (kirkastavasti vai pehmentävästi) äänenväri säätyy, riippuu lisämääreistä\n(epäitsenäiset vaatimukset): jos kuumennettu osa asetetaan välittömästi lyömäpintaa vasten,\nääni kirkastuu; jos taas vasaran kärkialuetta kostutetaan ja käytetään työkalun kuumennetun\nosan ja lyömäpinnan välissä huokoista materiaalikerrosta, ääni pehmenee. Kummassakin\nnäissä tapauksessa sovelletaan keksinnön olennaista, entuudestaan tuntematonta ideaa:\npianon vasaroiden lyömäpinnalle kohdistetaan lämpöä työkalun kuumennetulla osalla.\nMerkittävä osa kokelaista oli laatinut vaatimusasetelman tähän lähtökohtaan perustuen, mutta\nosalla kokelaista oli ollut vaikeuksia löytää päävaatimukseen ne (ja vain ne) piirteet, jotka ovat\nyhteisiä kummallekin äänen muokkaussuunnalle (kirkastus, pehmennys) ja keksinnön\nperiaatteelle välttämättömiä.\n\nArviointikriteerit\nTäysien pisteiden (50) saamiseksi kokelaan tuli:\n   -   Laatia itsenäinen patenttivaatimus (menetelmävaatimus), jossa on keksinnön kannalta\n       kaikki välttämättömät piirteet eikä tarpeettomia suoja-alaa rajoittavia piirteitä (kuten\n       esimerkiksi     vain    toiseen    muokkaussuuntaan         rajautuminen).      Itsenäisen\n       patenttivaatimuksen tuli olla tehtävänannon tietojen valossa uusi ja keksinnöllinen\n       sekä selkeä (ei epäselviä määritteitä). Itsenäisen patenttivaatimuksen\n       maksimipistemäärä oli 25.\n   -   Laatia     joukko    itsenäiselle    patenttivaatimukselle      alisteisia   epäitsenäisiä\n       patenttivaatimuksia (menetelmävaatimuksia), jotka (A) määrittelevät kummankin\n       muokkaussuunnan tapauksessa (kirkastaminen, pehmennys) välttämättömät piirteet\n       juuri kyseisen muokkaussuunnan toteuttamiseksi sekä (B) määrittelevät keksinnön\n       edulliset mutta ei-välttämättömät piirteet. Epäitsenäisten vaatimusten tuli olla muihin\n       vaatimuksiin oikein viittaavia sekä toki uusia, keksinnöllisiä ja selkeitä. Epäitsenäisten\n       patenttivaatimusten maksimipistemäärä oli 25.\nTänä vuonna keksintö ja näin ollen patenttivaatimuksetkin kohdistuivat vain menetelmään.\nNäin ollen tuotevaatimusta (esim. työkalu menetelmän toteuttamiseksi) ei tänä vuonna\nvaadittu, ja tehtävänannossa näin vihjattiinkin mainitsemalla, että keksintö ei edellytä mitään\nerityisiä laitteita, vaan esimerkiksi tavanomaisella lämpösäädettävällä juotoskolvillakin pärjää.\nNäin ollen myöskään tällaisen tuotteen valmistusmenetelmä- tai käyttövaatimusta ei vaadittu.\nKuitenkin mikäli menetelmävaatimuksissa ei ollut mainittu (epäitsenäisessä vaatimuksessa)\nlyömäpinnan muotoa mukailevaa kuumennetun osan käyttämistä, on siinä tapauksessa osa\nnäistä menetetyistä pisteistä hyvitetty, mikäli vaatimusasetelmassa oli itsenäinen\ntuotevaatimus, joka koskee työkalua, jossa on tällainen lyömäpinnan muotoa mukaileva\nkuumennettu osa.\nItsenäinen patenttivaatimus (menetelmävaatimus)\n\nKeksinnön (sen aiotun toiminnan ja toimivuuden kannalta) välttämättömät piirteet ovat:\n   -   Pianon vasaran lyömäpintaan kohdistetaan lämpöä (ja nimenomaan lyömäpintaan;\n       lämmön kohdistaminen yleisesti ottaen vain jonnekin päin vasaraa ei välttämättä\n       muuta äänenväriä tai voi muuttaa sitä ei-aiotulla tavalla, tai tuottaa muuta ei-aiottua\n       haittaa): 6 pistettä\n   -   Lämpöä kohdistetaan (lyömäpintaan) työkalun kuumennetulla osalla (jolla lämpö\n       saadaan kohdistettua juuri lyömäpintaan silitysraudan tavoin; vaikkapa\n       kuumailmapuhallin tai uuni kuumentaisi yleisesti ottaen koko vasaraa ja ympäröiviä\n       alueita): 9 pistettä\n           o Työkalun kuumennettua osaa ei kuitenkaan ole syytä päävaatimuksessa\n               määritellä asetettavaksi suoraan kontaktiin lyömäpintaa vasten; näin on vain\n               ääntä kirkastettaessa, ei pehmennettäessä\n   -   Kuumennetun osan (pinta)lämpötila on välillä 80-220 celsiusastetta (tätä alemmassa\n       lämpötilassa menetelmä ei toimi; korkeammassa lämpötilassa vasaran huovan kuidut\n       vahingoittuvat): 4 pistettä\n\nLisäksi itsenäisessä patenttivaatimuksessa edellytettiin:\n   -   Menetelmä on määritelty olevan ”pianon äänenvärin säätämiseksi” (tai vastaava\n       ilmaus): 2 pistettä\n   -   Vaatimus on jaoteltu oikein ”tunnettu siitä, että” -ilmauksella (ennen yo. välttämättömiä\n       piirteitä): 4 pistettä\n\nHyväksytty ja maksimipisteet mahdollistava itsenäisen patenttivaatimuksen toteuttamistapa\noli myös se, että itsenäinen menetelmävaatimus on jaettu kahteen osioon siten, että\nkummallekin käsittelysuunnalle (kirkastaminen, pehmentäminen) on vaatimuksessa oma\nosionsa, eroteltuna sellaisella ilmauksella, mikä ei edellytä sitä, että suojapiiriin kuuluu vain\nsellainen menetelmä, jossa käsittelyssä sekä kirkastetaan että pehmennetään äänenväriä.\nMikäli kummallekin käsittelysuunnalle (kirkastaminen, pehmentäminen) on oma erillinen\nitsenäinen menetelmävaatimuksensa, on vähennetty 3 pistettä siksi, että yksi yhtenäinen\nitsenäinen vaatimus olisi ollut mahdollinen sekä hakemuksen ja suojapiirin kannalta\nyksinkertaisempi.\n\nItsenäisessä patenttivaatimuksessa yleisimpiä virheitä olivat:\n   -   Kuumennettu osa koskettaa suoraan lyömäpintaa (jolloin itsenäisen vaatimuksen\n       mukainen menetelmä toimii vain äänenvärin kirkastamiseksi, eikä äänenvärin\n       pehmentäminen ole mukana suojapiirissä): -9 pistettä\n   -   Vaatimuksessa on jokin muu ylimääräinen rajoittava piirre kuten esimerkiksi se, että\n       työkalua on liikuteltava lyömäpinnalla (ei välttämätöntä esimerkiksi lyömäpintaa\n       myötäilevän kuumennetun osan tapauksessa, tai mikäli lyömäpintaa halutaan käsitellä\n       vain tietyltä alalta): -4 pistettä / ylimääräinen rajoittava piirre\n   -   Vaatimus on jaoteltu kahteen osioon siten, että vaatimuksessa on oma osionsa\n       kummallekin käsittelysuunnalle (kirkastaminen, pehmentäminen) siten, että nämä\n       vaatimuksen osiot on yhdistetty ”ja” -sanalla (jolloin suojapiirissä on vain sellainen\n       menetelmä, jossa käsittelyn aikana sekä kirkastetaan että pehmennetään eli\n       esimerkiksi pelkkä pehmentämiskäsittely ei lankeaisi suojapiirin sisään): -10 pistettä\n\nEpäitsenäiset vaatimukset (menetelmävaatimukset)\n\nEpäitsenäisissä vaatimuksissa odotettiin määriteltävän seuraavat keksinnön lisäpiirteet:\n\n   −   Kuumennettu osa on lyömäpinnan muotoa myötäilevä (yleisesti ottaen; ei vain siinä\n       tapauksessa, että kuumennettu osa on välittömästi lyömäpintaa vasten asetettuna eli\n       kirkastamisen tapauksessa): 5 pistettä\n           − Tehtävänannon tekstissä eksplisiittisesti mainitaan lyömäpinnan muotoa\n               myötäilevän kuumennetun osan käyttö välittömästi lyömäpintaa vasten\n               (kirkastamisen tapauksessa), mutta kuvissa (3-4) on esitetty tämä sekä\n               kirkastamisen että pehmentämisen tapauksessa eli sekä välittömästi\n               lyömäpintaa vasten (kuva 3) että siten, että kuumennetun osan ja lyömäpinnan\n               välissä on huokoinen materiaalikerros (kuva 4)\n   −   Kirkastaminen: Kuumennettu osa on välittömästi lyömäpintaa vasten (äänenvärin\n       kirkastamiseksi): 5 pistettä\n   −   Pehmentäminen: Kuumennetun osan lämpötila on 100-220 celsiusastetta,\n       kuumennetun osan ja lyömäpinnan väliin asetetaan huokoinen materiaalikerros ja\n       vasaran kärkialueelle saatetaan vettä (äänenvärin pehmentämiseksi): 5 pistettä\n   −   (Pehmentämisessä) Vesi injektoidaan kärkialueelle: 3 pistettä\n   −   (Pehmentämisessä) Huokoinen materiaali on vedellä kostutettu: 3 pistettä\n   −   (Pehmentämisessä) Huokoinen materiaali on tekstiiliä: 1 piste\n   −   (Pehmentämisessä) Tekstiili on puuvillakangasta: 1 piste\n   −   (Pehmentämisessä) Vesi on tislattua vettä: 2 pistettä\n\nEpäitsenäisissä patenttivaatimuksissa yleisimmät virheet olivat:\n\n   −   Pehmentämisen yhteydessä lämpötilaa ei ole rajattu 100-220 asteeseen (80-220\n       asteen sijaan; alle 100 asteen lämpötilassa vesi ei höyrysty): -2 pistettä\n   −   Materiaalikerrosta 4 ei ole määritelty huokoiseksi (ei-huokoinen materiaalikerros kuten\n       esimerkiksi kupari ei salli huovan laajentua, jolloin pehmentäminen ei toimi): - 2 pistettä\n   −   Materiaalikerroksen 4 käytön kanssa määritellään kuumennetun osan kuitenkin\n       koskettavan välittömästi lyömäpintaa (epäselvyys): - 2 pistettä\n   −   Epäitsenäisissä vaatimuksissa on virheellinen viittaussuhde muihin vaatimuksiin: -2\n       pistettä / vaatimus\nLisäksi:\n\n   −   Mikäli epäitsenäisissä menetelmävaatimuksissa ei ole määritelty käytettäväksi\n       lyömäpinnan muotoa myötäilevää kuumennettua työkalun osaa (- 5 pistettä), hyvitettiin\n       2 pistettä, mikäli vaatimusasetelmassa oli (ei-edellytetty) itsenäinen vaatimus\n       työkalulle, jossa on kuumennettava osa, joka on lyömäpinnan muotoa myötäilevä.\nEsimerkkivastaus vaatimusasetelmasta\n\n(Vaatimusasetelmassa piirteet on esitystavan havainnollisuuden vuoksi jaoteltu piirteittäin\nlistamaisesti.)\n\n   1. Menetelmä pianon äänenvärin säätämiseksi, tunnettu siitä, että\n        − pianon vasaran 1 pianon kieltä 20 kohden olevaan lyömäpintaan 2\n            kohdistetaan lämpöä kuumennetulla työkalulla 10,\n        − jonka kuumennetun osan 11 pintalämpötila on välillä 80-220 celsiusastetta.\n\n   2. Vaatimuksen 1 mukainen menetelmä, jossa\n         − kuumennettu osa 11 on lyömäpinnan 2 muotoa myötäilevä.\n\n   3. Vaatimuksen 1 tai 2 mukainen menetelmä, jossa\n         − kuumennettu osa 11 asetetaan välittömästi lyömäpintaa 2 vasten pianon\n            äänenvärin kirkastamiseksi.\n\n   4. Vaatimuksen 1 tai 2 mukainen menetelmä, jossa\n         − kuumennetun osan 11 pintalämpötila on välillä 100-220 celsiusastetta,\n         − kuumennetun osan 11 ja lyömäpinnan 2 väliin asetetaan huokoinen\n            materiaalikerros 4 ja\n         − vasaran 1 kieltä 20 kohden olevalle kärkialueelle 3 saatetaan vettä pianon\n            äänenvärin pehmentämiseksi.\n\n   5. Vaatimuksen 4 mukainen menetelmä, jossa\n         − vesi injektoidaan kärkialueelle.\n\n   6. Vaatimuksen 4 mukainen menetelmä, jossa\n         − huokoinen materiaalikerros 4 on vedellä kostutettu.\n\n   7. Jonkin vaatimuksista 4-6 mukainen menetelmä, jossa\n         − huokoinen materiaalikerros 4 on tekstiiliä.\n\n   8. Vaatimuksen 7 mukainen menetelmä, jossa\n         − tekstiili on puuvillakangasta.\n\n   9. Jonkin vaatimuksista 4-8 mukainen menetelmä, jossa\n−   vesi on tislattua vettä.\nTEOLLISOIKEUSASIAMIES-                            Asiamiestutkinto 18.10.2022\n                                                                                              1 (9)\nLAUTAKUNTA                                        Patenttioikeus",
     "grading": {
-      "mode": "official_text_with_explicit_points",
-      "criteria": [],
-      "penalties": [],
-      "instruction": "Award points only on the basis of the official grading material in this item. Do not invent extra legal criteria or an artificial point split."
+      "mode": "explicit_structured",
+      "criteria": [
+        {
+          "id": "main-heat-impact-face",
+          "description": "Päävaatimus: pianon vasaran lyömäpintaan kohdistetaan lämpöä.",
+          "max_points": 6
+        },
+        {
+          "id": "main-heated-tool-part",
+          "description": "Päävaatimus: lämpö kohdistetaan lyömäpintaan työkalun kuumennetulla osalla.",
+          "max_points": 9
+        },
+        {
+          "id": "main-tool-surface-temperature",
+          "description": "Päävaatimus: työkalun kuumennetun osan pintalämpötila on 80–220 °C (ei huovan lämpötila).",
+          "max_points": 4
+        },
+        {
+          "id": "main-colour-adjustment",
+          "description": "Päävaatimus: menetelmä on pianon äänenvärin säätämiseksi.",
+          "max_points": 2
+        },
+        {
+          "id": "main-characterizing-clause",
+          "description": "Päävaatimus: asianmukainen 'tunnettu siitä, että' -jaottelu ennen välttämättömiä piirteitä.",
+          "max_points": 4
+        },
+        {
+          "id": "dependent-conforming-tool-part",
+          "description": "Epäitsenäinen menetelmävaatimus: kuumennettu osa myötäilee lyömäpinnan muotoa sekä kirkastus- että pehmennystilanteessa. Jos ominaisuus vain itsenäisessä työkaluvaatimuksessa, virallisen tekstin mukaan enintään 2/5 p.",
+          "max_points": 5
+        },
+        {
+          "id": "dependent-brightening-contact",
+          "description": "Epäitsenäinen menetelmävaatimus: kirkastettaessa kuumennettu osa on välittömästi lyömäpintaa vasten.",
+          "max_points": 5
+        },
+        {
+          "id": "dependent-softening-three-features",
+          "description": "Epäitsenäinen menetelmävaatimus: pehmennys, kuumennetun osan lämpötila 100–220 °C, huokoinen välikerros ja veden saattaminen vasaran kärkialueelle.",
+          "max_points": 5
+        },
+        {
+          "id": "dependent-water-injection",
+          "description": "Epäitsenäinen menetelmävaatimus: vesi injektoidaan kärkialueelle.",
+          "max_points": 3
+        },
+        {
+          "id": "dependent-moistened-porous-layer",
+          "description": "Epäitsenäinen menetelmävaatimus: huokoinen materiaalikerros on vedellä kostutettu.",
+          "max_points": 3
+        },
+        {
+          "id": "dependent-textile",
+          "description": "Epäitsenäinen menetelmävaatimus: huokoinen materiaalikerros on tekstiiliä.",
+          "max_points": 1
+        },
+        {
+          "id": "dependent-cotton",
+          "description": "Epäitsenäinen menetelmävaatimus: tekstiili on puuvillakangasta.",
+          "max_points": 1
+        },
+        {
+          "id": "dependent-distilled-water",
+          "description": "Epäitsenäinen menetelmävaatimus: vesi on tislattua vettä.",
+          "max_points": 2
+        }
+      ],
+      "penalties": [
+        {
+          "id": "main-direct-contact-limits-coverage",
+          "description": "PÄÄvaatimuksessa rajoitetaan suoraan kontaktiin, jolloin pehmennys ei kuulu suojapiiriin: -9 p.",
+          "unit_points": 9,
+          "repeatable": false
+        },
+        {
+          "id": "main-unnecessary-feature",
+          "description": "Muu ylimääräinen päävaatimuksen rajoittava piirre: -4 p per piirre.",
+          "unit_points": 4,
+          "repeatable": true
+        },
+        {
+          "id": "main-and-requires-both-treatments",
+          "description": "Päävaatimus edellyttää 'ja'-sanalla sekä kirkastamista että pehmentämistä: -10 p.",
+          "unit_points": 10,
+          "repeatable": false
+        },
+        {
+          "id": "two-independent-method-claims",
+          "description": "Kaksi erillistä itsenäistä menetelmävaatimusta yhden yhtenäisen sijaan: -3 p.",
+          "unit_points": 3,
+          "repeatable": false
+        },
+        {
+          "id": "softening-temperature",
+          "description": "Pehmentämisen 100–220 °C lämpötilarajaus puuttuu: -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "softening-not-porous",
+          "description": "Pehmentämisen materiaalikerroksen huokoisuus puuttuu: -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "softening-direct-contact-conflict",
+          "description": "Välikerroksen kanssa ristiriitainen suora kontakti lyömäpintaan: -2 p.",
+          "unit_points": 2,
+          "repeatable": false
+        },
+        {
+          "id": "wrong-dependent-reference",
+          "description": "Virheellinen alivaatimuksen viittaussuhde: -2 p / virheellinen vaatimus.",
+          "unit_points": 2,
+          "repeatable": true
+        }
+      ],
+      "instruction": "Arvioi KAIKKI 13 virallista pistekriteeriä erikseen ja anna osapisteitä riippumatta kokonaisuuden hyväksyttävyydestä. Päävaatimuksen viiden kriteerin summa on 25 pistettä, alivaatimusten kahdeksan kriteerin summa 25 pistettä. Myös virheellinen päävaatimus voi sisältää pisteytettäviä piirteitä; sen virhe ei nollaa muita oikein esitettyjä piirteitä. Tuotevaatimus työkalusta ei ole vaadittu: muotoa myötäilevä työkalu erillisenä tuotevaatimuksena hyvittää enintään 2/5 p vain kun vastaava menetelmäalivaatimus puuttuu. Arvioi tekniset piirteet täsmällisesti: 80–220 °C koskee kuumennetun osan PINTAlämpötilaa, pehmennys 100–220 °C; pehmennys edellyttää sekä vettä että huokoista välikerrosta. Vaatimusviittaukset ja viralliset vähennykset on huomioitava, mutta samaa puutetta ei saa rankaista kahdesti sekä kriteerin pistevähennyksessä että penalties_applied-kentässä. Nollan antaminen koko työlle on perusteltua vain, jos YHTÄÄN virallista pisteytettävää piirrettä ei ole oikein esitetty. Käytä perusteluissa tarvittaessa patenttivaatimusten numeroita."
     },
     "source": {
       "file": "Patenttikoe_2022.pdf",
@@ -55,7 +170,7 @@
     "question_type": "open_response",
     "max_points": 50,
     "max_points_basis": "explicit",
-    "practice_pass_points": 25.0,
+    "practice_pass_points": 25,
     "practice_pass_rule": "At least 50% of this practice item.",
     "exam_pass_group": {
       "id": "patent-2022-section-2",
@@ -100,7 +215,7 @@
     "question_type": "open_response",
     "max_points": 50,
     "max_points_basis": "explicit",
-    "practice_pass_points": 25.0,
+    "practice_pass_points": 25,
     "practice_pass_rule": "At least 50% of this practice item.",
     "exam_pass_group": {
       "id": "patent-2022-section-3",
